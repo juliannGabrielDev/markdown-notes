@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "5e915ab98fcd4c77",
+    "type": "split",
+    "children": [
+      {
+        "id": "1297dec27e10f588",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc908de5a1fa83c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "version-control/modulo-3/Ramas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c6a6e90155a234ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ef95bd76fd74040",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8877c6bbfc043797",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6f0bd25b78604642",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "cli",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "68a18398dc7c00c6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 449.5086555480957
+  },
+  "right": {
+    "id": "23d8d5100a0a9a83",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ba9d6fa232ff91c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ca5d0299eff80cd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "version-control/modulo-3/Ramas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "51956aba5c1fbfa6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "version-control/modulo-3/Ramas.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0a0185febae20fd3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "56b0ce292807d0d9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "version-control/modulo-3/Ramas.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "fc908de5a1fa83c8",
+  "lastOpenFiles": [
+    "Camandos Git.md",
+    "version-control/modulo-3/Ramas.md",
+    "version-control/modulo-3/Historial de fusiones(merge).md",
+    "version-control/modulo-3/Configuración de un repositorio local sincronizado con uno remoto en GitHub.md",
+    "version-control/modulo-3/GitHub CLI Autenticarse eln GitHub desde el terminal.md",
+    "version-control/modulo-3/Conexión a GitHub a través de HTTPS.md",
+    "version-control/modulo-3/Flujo de trabajo en Git.md",
+    "version-control/modulo-3/Blame.md",
+    "Sin título.canvas",
+    "2024-09-29.md",
+    "version-control/modulo-1/Control de versiones en el desarrollo profesional.md",
+    "version-control/modulo-3/HEAD.md",
+    "version-control/modulo-3/GitHub CLI Clonar repositorio.md",
+    "version-control/modulo-3/git diff: Diferencias entre varios estados del repositorio.md",
+    "version-control/modulo-3/Diferencias entre Git y GitHub.md",
+    "version-control/modulo-3/Conexión a GitHub a través de SSH.md",
+    "version-control/modulo-3/Bifurcación.md",
+    "version-control/modulo-3/img/github-ssh-conexion.png",
+    "version-control/modulo-3/img/github-http-conexion.png",
+    "version-control/modulo-3/img/blame.jpg",
+    "version-control/modulo-3/img",
+    "version-control/modulo-3/IMG",
+    "version-control/modulo-3/github-http-conexion.png",
+    "version-control/modulo-3/blame.jpg",
+    "version-control/modulo-3/blamejpg",
+    "version-control/modulo-3/Blame/blamejpg",
+    "version-control/modulo-3/Blame",
+    "blamejpg",
+    "version-control/modulo-1/Puesta en escena frente a producción.md",
+    "version-control/modulo-1/Historia del Control de Versiones.md",
+    "version-control/Historia del Control de Versiones.md",
+    "version-control/modulo1",
+    "version-control/modulo-3",
+    "version-control/modulo-1",
+    "version-control/Historia del Control de Versiones 5b2ce3e982b34e2a8ba4d4bbcd6409ab.md",
+    "version-control/1790d6bf-e1bc-4ed9-bd7d-0788f1bfecb0_Export-9f14c453-424c-4cb1-a2d5-29d32fb9aa64/Historia del Control de Versiones 5b2ce3e982b34e2a8ba4d4bbcd6409ab.md",
+    "version-control/1790d6bf-e1bc-4ed9-bd7d-0788f1bfecb0_Export-9f14c453-424c-4cb1-a2d5-29d32fb9aa64"
+  ]
+}
