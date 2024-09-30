@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "10898ff85f865da7",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf7f142a5c09adb5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90aa84f0d633983d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ciberseguridad/fundamentos-ciberseguridad/glosario-2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e14a093eb6f8a38c",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd0dd69ea57e4dbc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6ee800785779d8b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "303e5e697bfa7fe3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Teoria",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "12a6e408fe446ce1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "979a86d9c9a04b0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "39f39ee20c26a26d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e140cfe2550c576",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ciberseguridad/fundamentos-ciberseguridad/glosario-2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4bdc537166742836",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ciberseguridad/fundamentos-ciberseguridad/glosario-2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "42d894e8a1a5b1d9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "25fd043ef2d6c9a5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ciberseguridad/fundamentos-ciberseguridad/glosario-2.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "90aa84f0d633983d",
+  "lastOpenFiles": [
+    "ciberseguridad/fundamentos-ciberseguridad/glosario.md",
+    "ciberseguridad/fundamentos-ciberseguridad/glosario-2.md",
+    "ciberseguridad/fundamentos-ciberseguridad/atacanes.md",
+    "ciberseguridad/fundamentos-ciberseguridad/ataques-comunes.md",
+    "ciberseguridad/fundamentos-ciberseguridad/dominios-seguridad.md",
+    "ciberseguridad/fundamentos-ciberseguridad/dominios-seguridad",
+    "web/version-control/modulo-1/desarrollo-profesional.md",
+    "web/version-control/modulo-3/conexion-https.md",
+    "web/version-control/modulo-3/blame.md",
+    "README.md",
+    "ciberseguridad/fundamentos-ciberseguridad/terminologia-ciberseguridad.md",
+    "ciberseguridad/fundamentos-ciberseguridad/habilidades-transferibles-tecnicas.md",
+    "web/comandos-git.md",
+    "web/version-control/modulo-3/ramas.md",
+    "web/version-control/modulo-3/historial-merge.md",
+    "web/version-control/modulo-3/gh-auth-login.md",
+    "web/version-control/modulo-3/head.md",
+    "web/version-control/modulo-1/historia-control-versiones.md",
+    "web/version-control/modulo-3/flujo-git.md",
+    "web/version-control/modulo-3/cli-clonar-repo.md",
+    "web/version-control/modulo-3/git-diff.md",
+    "web/version-control/modulo-3/diferencia-git-github.md",
+    "web/version-control/modulo-3/repo-local-remoto.md",
+    "web/version-control/modulo-3/conexion-ssh.md",
+    "web/version-control/modulo-3/forking.md",
+    "web/version-control/modulo-1/staging.md",
+    "web/html/Hoja de trucos sobre metadatos.md",
+    "ciberseguridad/Fundamentos de la Ciberseguridad/Terminología común sobre Ciberseguridad",
+    "ciberseguridad/fundamentos-ciberseguridad",
+    "Fundamentos de la Ciberseguridad",
+    "Fundamentos",
+    "ciberseguridad",
+    "HTML 11051813cff480338002f3334a7201f8"
+  ]
+}
