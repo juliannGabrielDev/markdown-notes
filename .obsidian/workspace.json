@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ciberseguridad/fundamentos-ciberseguridad/glosario-2.md",
+                "file": "ciberseguridad/fundamentos-ciberseguridad/glosario-3.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Teoria",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "979a86d9c9a04b0c",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ciberseguridad/fundamentos-ciberseguridad/glosario-2.md",
+                "file": "ciberseguridad/fundamentos-ciberseguridad/glosario-3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ciberseguridad/fundamentos-ciberseguridad/glosario-2.md",
+                "file": "ciberseguridad/fundamentos-ciberseguridad/glosario-3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ciberseguridad/fundamentos-ciberseguridad/glosario-2.md"
+                "file": "ciberseguridad/fundamentos-ciberseguridad/glosario-3.md"
               }
             }
           }
@@ -148,17 +149,23 @@
   },
   "active": "90aa84f0d633983d",
   "lastOpenFiles": [
-    "ciberseguridad/fundamentos-ciberseguridad/glosario.md",
+    "ciberseguridad/fundamentos-ciberseguridad/conceptos-eticos.md",
+    "ciberseguridad/fundamentos-ciberseguridad/glosario-3.md",
+    "ciberseguridad/fundamentos-ciberseguridad/controles-marcos-cumplimiento.md",
+    "ciberseguridad/fundamentos-ciberseguridad/img/cid.png",
+    "ciberseguridad/fundamentos-ciberseguridad/terminologia-ciberseguridad.md",
+    "web/version-control/modulo-3/blame.md",
+    "ciberseguridad/fundamentos-ciberseguridad/img",
+    "ciberseguridad/fundamentos-ciberseguridad/Sin título.md",
     "ciberseguridad/fundamentos-ciberseguridad/glosario-2.md",
+    "ciberseguridad/fundamentos-ciberseguridad/glosario.md",
     "ciberseguridad/fundamentos-ciberseguridad/atacanes.md",
     "ciberseguridad/fundamentos-ciberseguridad/ataques-comunes.md",
     "ciberseguridad/fundamentos-ciberseguridad/dominios-seguridad.md",
     "ciberseguridad/fundamentos-ciberseguridad/dominios-seguridad",
     "web/version-control/modulo-1/desarrollo-profesional.md",
     "web/version-control/modulo-3/conexion-https.md",
-    "web/version-control/modulo-3/blame.md",
     "README.md",
-    "ciberseguridad/fundamentos-ciberseguridad/terminologia-ciberseguridad.md",
     "ciberseguridad/fundamentos-ciberseguridad/habilidades-transferibles-tecnicas.md",
     "web/comandos-git.md",
     "web/version-control/modulo-3/ramas.md",
@@ -171,10 +178,6 @@
     "web/version-control/modulo-3/git-diff.md",
     "web/version-control/modulo-3/diferencia-git-github.md",
     "web/version-control/modulo-3/repo-local-remoto.md",
-    "web/version-control/modulo-3/conexion-ssh.md",
-    "web/version-control/modulo-3/forking.md",
-    "web/version-control/modulo-1/staging.md",
-    "web/html/Hoja de trucos sobre metadatos.md",
     "ciberseguridad/Fundamentos de la Ciberseguridad/Terminología común sobre Ciberseguridad",
     "ciberseguridad/fundamentos-ciberseguridad",
     "Fundamentos de la Ciberseguridad",
