@@ -1,6 +1,5 @@
 # Hoja de trucos de HTML semántico
-
-Creado: 29 de septiembre de 2024 4:38
+#html #Teoría 
 
 ---
 
@@ -147,7 +146,7 @@ Indica que el texto que contiene es un bloque de código informático
 **`<data>`**
 Indica datos legibles por máquina
 
-`<em>`
+**`<em>`**
 Enfatiza el texto que contiene
 
 **`<i>`**

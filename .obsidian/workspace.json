@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ciberseguridad/fundamentos-ciberseguridad/glosario-3.md",
+                "file": "web/html/carga-diferida.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "carga",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,12 +65,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "979a86d9c9a04b0c",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ciberseguridad/fundamentos-ciberseguridad/glosario-3.md",
+                "file": "web/html/carga-diferida.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ciberseguridad/fundamentos-ciberseguridad/glosario-3.md",
+                "file": "web/html/carga-diferida.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ciberseguridad/fundamentos-ciberseguridad/glosario-3.md"
+                "file": "web/html/carga-diferida.md"
               }
             }
           }
@@ -149,40 +149,48 @@
   },
   "active": "90aa84f0d633983d",
   "lastOpenFiles": [
-    "ciberseguridad/fundamentos-ciberseguridad/conceptos-eticos.md",
+    "web/html/tarjeta-medios-sociales.md",
+    "intel/redes-computo/nivel-2/conceptos-fundamentales-2.md",
+    "intel/redes-computo/nivel-2/conceptos-fundamentales.md",
+    "apps/sublime-text.md",
+    "linux/sobre-ubicaciones.md",
+    "apps",
+    "info-linux.md",
+    "linux",
+    "web/html/metadatos.md",
+    "web/html/img/tarjeta-medios.png",
+    "web/html/disenio.md",
+    "web/html/img/panel-control.png",
+    "web/html/img/blog-2.png",
+    "web/html/img/blog.png",
+    "web/html/img/carrusel.png",
+    "web/html/img/disenio.png",
+    "web/html/img",
+    "web/html/html-semantico.md",
+    "web/html/carga-diferida.md",
+    "web/html/Hoja de trucos sobre metadatos.md",
+    "web/html/Carga diferida.md",
+    "web/html/Hoja de trucos de HTML semántico.md",
     "ciberseguridad/fundamentos-ciberseguridad/glosario-3.md",
-    "ciberseguridad/fundamentos-ciberseguridad/controles-marcos-cumplimiento.md",
-    "ciberseguridad/fundamentos-ciberseguridad/img/cid.png",
-    "ciberseguridad/fundamentos-ciberseguridad/terminologia-ciberseguridad.md",
-    "web/version-control/modulo-3/blame.md",
-    "ciberseguridad/fundamentos-ciberseguridad/img",
-    "ciberseguridad/fundamentos-ciberseguridad/Sin título.md",
-    "ciberseguridad/fundamentos-ciberseguridad/glosario-2.md",
+    "ciberseguridad/fundamentos-ciberseguridad/glosario-final.md",
     "ciberseguridad/fundamentos-ciberseguridad/glosario.md",
+    "ciberseguridad/fundamentos-ciberseguridad/glosario-2.md",
+    "ciberseguridad/fundamentos-ciberseguridad/glosario-4.md",
+    "ciberseguridad/fundamentos-ciberseguridad/herramientas-proteger-b2b-2.md",
+    "ciberseguridad/fundamentos-ciberseguridad/herramientas-proteger-b2b.md",
+    "ciberseguridad/fundamentos-ciberseguridad/habilidades-transferibles-tecnicas.md",
+    "ciberseguridad/fundamentos-ciberseguridad/terminologia-ciberseguridad.md",
     "ciberseguridad/fundamentos-ciberseguridad/atacanes.md",
     "ciberseguridad/fundamentos-ciberseguridad/ataques-comunes.md",
-    "ciberseguridad/fundamentos-ciberseguridad/dominios-seguridad.md",
+    "ciberseguridad/fundamentos-ciberseguridad/conceptos-eticos.md",
+    "ciberseguridad/fundamentos-ciberseguridad/controles-marcos-cumplimiento.md",
+    "ciberseguridad/fundamentos-ciberseguridad/img/cid.png",
+    "ciberseguridad/fundamentos-ciberseguridad/img",
     "ciberseguridad/fundamentos-ciberseguridad/dominios-seguridad",
-    "web/version-control/modulo-1/desarrollo-profesional.md",
-    "web/version-control/modulo-3/conexion-https.md",
-    "README.md",
-    "ciberseguridad/fundamentos-ciberseguridad/habilidades-transferibles-tecnicas.md",
-    "web/comandos-git.md",
-    "web/version-control/modulo-3/ramas.md",
-    "web/version-control/modulo-3/historial-merge.md",
-    "web/version-control/modulo-3/gh-auth-login.md",
-    "web/version-control/modulo-3/head.md",
-    "web/version-control/modulo-1/historia-control-versiones.md",
-    "web/version-control/modulo-3/flujo-git.md",
-    "web/version-control/modulo-3/cli-clonar-repo.md",
-    "web/version-control/modulo-3/git-diff.md",
-    "web/version-control/modulo-3/diferencia-git-github.md",
-    "web/version-control/modulo-3/repo-local-remoto.md",
     "ciberseguridad/Fundamentos de la Ciberseguridad/Terminología común sobre Ciberseguridad",
     "ciberseguridad/fundamentos-ciberseguridad",
     "Fundamentos de la Ciberseguridad",
     "Fundamentos",
-    "ciberseguridad",
-    "HTML 11051813cff480338002f3334a7201f8"
+    "ciberseguridad"
   ]
 }

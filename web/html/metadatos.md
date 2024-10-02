@@ -1,9 +1,7 @@
 # Hoja de trucos sobre metadatos
-
-Creado: 29 de septiembre de 2024 9:46
+#html #Teoría 
 
 ---
-
 ## Etiquetas HTML `<meta>`
 
 Anteriormente en el curso, usted aprendió acerca de las etiquetas meta y cómo puede aprovecharlas para transmitir información a los motores de búsqueda para categorizar mejor sus páginas. Le recomendamos que tenga a mano esta hoja de trucos cuando cree sus aplicaciones web. La estructura de una etiqueta meta es la siguiente:
@@ -29,7 +27,7 @@ El charset es un campo especial que le permite especificar la codificación de c
 ```
 
 **HTTP-equiv** 
-Este campo significa equivalente HTTP, y se utiliza para simular cabeceras de respuesta HTTP. Es raro verlo, y se recomienda utilizar las cabeceras HTTP en lugar de las metaetiquetas HTML http-equiv. Por ejemplo, la siguiente etiqueta indicaría al navegador que actualice la página cada 30 minutos: 
+Este campo significa equivalente HTTP, y se utiliza para simular cabeceras de respuesta HTTP. Es raro verlo, y se recomienda utilizar las cabeceras HTTP en lugar de las meta-etiquetas HTML http-equiv. Por ejemplo, la siguiente etiqueta indicaría al navegador que actualice la página cada 30 minutos: 
 ```html
 <meta http-equiv="refresh" content="30">
 ```

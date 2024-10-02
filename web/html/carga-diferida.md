@@ -1,5 +1,6 @@
 # Carga diferida
 
+
 Creado: 19 de julio de 2024 22:31
 
 La carga diferida (lazy loading) en HTML se puede implementar utilizando el atributo `loading` en las etiquetas de imagen (`<img>`). Este atributo acepta los valores `lazy`, `eager` y `auto`, siendo `lazy` el que permite la carga diferida.

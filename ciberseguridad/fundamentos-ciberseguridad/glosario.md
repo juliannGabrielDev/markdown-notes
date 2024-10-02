@@ -1,4 +1,5 @@
 # Términos del glosario del Módulo 1
+#Teoría #Ciberseguridad 
 
 - **Ciberseguridad** La practica de garantizar la confidencialidad, integridad y disponibilidad de la información protegiendo las redes, los dispositivos, las personas y los datos del acceso no autorizado o de la explotación delictiva.
 
