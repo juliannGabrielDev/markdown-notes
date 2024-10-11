@@ -3,7 +3,7 @@
 
 ---
 Como analista, puede explorar diversas áreas de la ciberseguridad que le interesen. Una forma de explorar esas áreas es ==comprendiendo los diferentes dominios de Seguridad y cómo se utilizan para organizar el trabajo de los profesionales de la Seguridad==. En esta lectura aprenderá más sobre los ocho dominios de Seguridad del CISSP y cómo se relacionan con el trabajo que realizará como analista de seguridad.
-![Dominios de Seguridad](img/dominios-seguridad.png)
+![Dominios de Seguridad](img/dominios-seguridad.webp)
 ## Primer dominio: Seguridad y gestión de riesgos
 
 Todas las organizaciones deben desarrollar su Postura de seguridad. ==Postura de seguridad es la capacidad de una organización para gestionar su defensa de los activos y datos críticos y reaccionar ante los cambios==. Entre los elementos del dominio de la Gestión de riesgos y seguridad que repercuten en la postura de seguridad de una organización se incluyen:

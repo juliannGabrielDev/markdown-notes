@@ -27,7 +27,7 @@ Con el paso de los años, el éxito de la implantación de OGP ha llevado a otro
 Con el número de usuarios y el uso del marketing en Internet en aumento, la atención del usuario es la moneda de cambio. Se dice que una imagen vale más que mil palabras, e Internet es la prueba viviente de ello: un pie de foto y una imagen pueden conducir a los usuarios hacia un sitio web o alejarlos de él.
 
 El título y la descripción compartidos con una URL deben resumir el contenido de una página web. A veces, puede referirse a información genérica sobre toda la página web. En otras, puede adaptar la tarjeta de medios sociales (SM) a una página específica de un sitio web que esté compartiendo. La siguiente imagen es un ejemplo de tarjeta social para este curso cuando se comparte en los medios sociales:
-![Tarjeta de medios](img/tarjeta-medios.png)
+![Tarjeta de medios](img/tarjeta-medios.webp)
 ## La etiqueta OGP tipo
 
 el 'tipo' es una etiqueta OGP importante en las tarjetas SM que ayuda a describir los detalles de un enlace, como si se trata de un libro, un artículo o una película. Proporciona metadatos más detallados para tipos específicos. Por ejemplo, en el caso del tipo música, puede añadir detalles sobre la canción, el álbum, la duración o cualquier otra información sobre la canción. Para un usuario habitual que se desplaza por las redes sociales, el enlace proporcionado con la vista previa de la imagen sólo tiene una oportunidad y un momento de atención para causar una buena impresión. En estos casos, el papel de las tarjetas de medios sociales se vuelve muy importante.

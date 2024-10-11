@@ -54,4 +54,4 @@ git blame --since=2.weeks.ago <archivo>
 ```
 
 En resumen, `git blame` es una poderosa herramienta para investigar el historial de cada línea en un archivo, lo que te ayuda a entender la evolución del código o texto en tu proyecto.
-![Sintaxis de salida blame](img/blame.jpg)
+![Sintaxis de salida blame](img/blame.webp)

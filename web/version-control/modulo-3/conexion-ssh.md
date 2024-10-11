@@ -80,4 +80,4 @@ Ahora está listo para acceder a Github a través de SSH.
 ## Accediendo a Repositorios
 
 Cuando acceda a un repositorio y utilice la autenticación SSH, asegúrese de utilizar siempre la dirección SSH del repositorio.
-![Accediendo a Repositorios](img/github-ssh-conexion.png)
+![Accediendo a Repositorios](img/github-ssh-conexion.webp)

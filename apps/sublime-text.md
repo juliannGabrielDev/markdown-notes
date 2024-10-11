@@ -31,3 +31,47 @@
 | ctrl + shift + f | Buscar en todo el proyecto        |
 | ctrl + h         | Remplazar en el archivo actual    |
 | ctrl + r         | Buscar selectores en archivos CSS |
+
+## Configuraciones de Sublime Text
+```json
+// Settings in here override those in "Default/Preferences.sublime-settings",
+// and are overridden in turn by syntax-specific settings.
+{
+	"font_size": 16,
+	"font_face": "Jetbrains Mono",
+	"save_on_focus_lost": true,
+	"highlight_line": true,
+	"caret_style": "phase",
+	"word_wrap": true,
+	"line_padding_bottom": 12,
+	"line_padding_top": 12,
+	"theme": "Adaptive.sublime-theme",
+	"color_scheme": "Packages/Aura Theme Color Scheme/aura-theme.tmTheme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": "true",
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"index_files": true,
+}
+```
+
+## Extensiones Sublime Text
+
+- A File Icon
+- All Autocomplete
+- Auto File Name
+- Bracket Highlighter
+- Color Highlighter
+- CSS3
+- GitGutter
+- Emmet
+- HTML-CSS-JS Prettify
+- Javascript & NodeJS Snippets
+- JsLint
+- SideBarEnhancements
+- SunlimeCodeIntel
+- SublimeLinter
+- SublimeLinter-gcc
+- Terminus

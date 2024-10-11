@@ -2,11 +2,10 @@
 
 ---
 ### Fuentes
-```bash
-.local/share/fonts/
-```
+.local/share/fonts/`
 
 ### PWAs de los navegadores
-```bash
-.local/share/applications/
-```
+`.local/share/applications/`
+
+### Unidades montables
+`/run/media/{usuario}`

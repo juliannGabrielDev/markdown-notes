@@ -50,4 +50,4 @@ El token ya está generado. Asegúrese de copiar y tomar nota del token, ya que 
 # Accediendo a repositorios
 
 Cuando acceda a un repositorio y utilice la autenticación HTTPS, asegúrese de que tiene acceso/permiso para conectarse, y entonces sólo utilice la dirección HTTPS para el propio repositorio Git. 
-![Accediendo a repositorios](img/github-http-conexion.png)
+![Accediendo a repositorios](img/github-http-conexion.webp)

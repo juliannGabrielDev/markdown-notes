@@ -34,4 +34,6 @@
 
 **Ingeniería social:** Una técnica de manipulación que explota el error humano para obtener información privada, acceso u objetos de valor
 
-**Vulnerabilidad:** Una debilidad que puede ser explotada por una amenaza
+**Vulnerabilidad:** Una debilidad que puede ser explotada por una amenaza.
+
+[[ciberseguridad/gestionar-riesgos-seguridad/glosario-2|glosario-2]] [[ciberseguridad/gestionar-riesgos-seguridad/glosario-3|glosario-3]] 
