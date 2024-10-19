@@ -31,7 +31,7 @@ sudo dnf list installed | grep palabra-clave
 ## Ver actualizaciones disponibles
 ```bash
 sudo dnf check-update
-```
+	```
 ## Buscar archivos ejecutables
 El comando `whereis` en Linux se utiliza para localizar los archivos binarios (ejecutables), de configuración y de documentación de un programa. Es útil cuando deseas saber en qué ubicación se encuentran estos archivos en tu sistema.
 ```bash

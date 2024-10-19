@@ -3,6 +3,7 @@
 
 ---
 
-| **Comando** | **Función**        |
-| ----------- | ------------------ |
-| `mmls -V`   | Mostrar la versión |
+| **Comando**     | **Función**                 |
+| --------------- | --------------------------- |
+| `mmls -V`       | Mostrar la versión          |
+| `mmls {imagen}` | Muestra el diseño del disco |

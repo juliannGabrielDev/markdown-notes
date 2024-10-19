@@ -1,5 +1,5 @@
 {
-  "spellcheck": true,
+  "spellcheck": false,
   "pdfExportSettings": {
     "pageSize": "A4",
     "landscape": false,

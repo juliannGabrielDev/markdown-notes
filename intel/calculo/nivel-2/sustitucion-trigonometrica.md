@@ -23,11 +23,11 @@ Identificar a que caso pertenece nuestra integral:
 Encontrar los siguientes 3 elementos:
 ### El cambio:
 
-|            | El cambio            | La derivada                                | La transformación                   |
-| ---------- | -------------------- | ------------------------------------------ | ----------------------------------- |
-| **Caso 1** | $u = a \sin(\theta)$ | $du = a \cos(\theta) d\theta$              | $\sqrt{a^2 - u^2} = a \cos(\theta)$ |
-| **Caso 2** | $u = a \tan(\theta)$ | $du = a \sec^2(\theta) d\theta$            | $\sqrt{a^2 + u^2} = a \sec(\theta)$ |
-| **Caso 3** | $u = a \sec(\theta)$ | $du = a \sec(\theta) \tan(\theta) d\theta$ | $\sqrt{u^2 - a^2} = a \tan(\theta)$ |
+|            | Valor de variable (x) | La derivada                                | Valor de la raíz                    |
+| ---------- | --------------------- | ------------------------------------------ | ----------------------------------- |
+| **Caso 1** | $u = a \sin(\theta)$  | $du = a \cos(\theta) d\theta$              | $\sqrt{a^2 - u^2} = a \cos(\theta)$ |
+| **Caso 2** | $u = a \tan(\theta)$  | $du = a \sec^2(\theta) d\theta$            | $\sqrt{a^2 + u^2} = a \sec(\theta)$ |
+| **Caso 3** | $u = a \sec(\theta)$  | $du = a \sec(\theta) \tan(\theta) d\theta$ | $\sqrt{u^2 - a^2} = a \tan(\theta)$ |
 
 ---
 ## Paso 3

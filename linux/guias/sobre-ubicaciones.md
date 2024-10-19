@@ -8,4 +8,4 @@
 `.local/share/applications/`
 
 ### Unidades montables
-`/run/media/{usuario}`
+`/run/media/{usuario}`/

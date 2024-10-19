@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web/html/ejercicios/formularios.md",
+                "file": "ciberseguridad/seguridad-redes/protocolos-red-adicionales.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "protocolos-red-adicionales"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -48,13 +52,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Teoría",
+                "query": "tag:#redes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web/html/ejercicios/formularios.md",
+                "file": "apps/fzf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de fzf"
             }
           },
           {
@@ -102,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "web/html/ejercicios/formularios.md",
+                "file": "apps/fzf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de fzf"
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
             }
           },
           {
@@ -125,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web/html/ejercicios/formularios.md"
-              }
+                "file": "apps/fzf.md"
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de fzf"
             }
           }
         ]
@@ -138,61 +154,61 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
     }
   },
   "active": "d92849e524f1eb88",
   "lastOpenFiles": [
-    "linux/sobre-ubicaciones.md",
-    "web/html/ejercicios/formularios.md",
-    "web/html/ejercicios",
-    "web/html/tipos-entrada.md",
+    "apps/fzf.md",
     "apps/the-sleuth-kit.md",
-    "apps/sublime-text.md",
-    "apps/suricata.md",
-    "linux/ejecutar-bash.md",
-    "Untitled",
-    "linux/admin-programas.md",
-    "Music.md",
-    "ciberseguridad/gestionar-riesgos-seguridad/principios-owasp.md",
-    "web/version-control/modulo-3/conexion-ssh.md",
-    "web/version-control/modulo-3/conexion-https.md",
-    "web/version-control/modulo-3/blame.md",
-    "ciberseguridad/gestionar-riesgos-seguridad/dominios-seguridad-afondo.md",
-    "web/version-control/modulo-3/img/github-ssh-conexion.webp",
-    "web/version-control/modulo-3/img/github-http-conexion.webp",
-    "web/version-control/modulo-3/img/blame.webp",
-    "ciberseguridad/gestionar-riesgos-seguridad/concepto-amenazas-riesgos.md",
-    "ciberseguridad/gestionar-riesgos-seguridad/gestion-riesgos.md",
-    "ciberseguridad/fundamentos-ciberseguridad/controles-marcos-cumplimiento.md",
-    "ciberseguridad/gestionar-riesgos-seguridad/img/dominios-seguridad.webp",
-    "ciberseguridad/fundamentos-ciberseguridad/conceptos-eticos.md",
-    "ciberseguridad/fundamentos-ciberseguridad/img/cid.webp",
-    "web/html/tarjeta-medios-sociales.md",
-    "web/html/disenio.md",
-    "web/html/img/tarjeta-medios.webp",
-    "web/html/img/panel-control.webp",
-    "web/html/img/disenio.webp",
-    "web/html/img/carrusel.webp",
-    "web/html/img/blog-2.webp",
-    "web/html/carga-diferida.md",
-    "web/html/metadatos.md",
-    "web/html/html-semantico.md",
+    "intel/calculo/nivel-2/identidades-trigonometricas.md",
+    "sql/diagrama-er-chen.md",
+    "sql/img/entidad-2.webp",
+    "sql/img/entidad.webp",
+    "sql/img",
+    "sql",
+    "2024-10-16.md",
+    "linux/teoria/img/virtual.webp",
+    "linux/teoria/img/solicitud-os.webp",
+    "linux/teoria/img/gui-cli.webp",
+    "linux/teoria/img/fhs.webp",
+    "linux/teoria/img",
+    "ciberseguridad/linux-sql/uso-responsable-sudo.md",
+    "linux/teoria/virtualizacion.md",
+    "linux/teoria/uso-responsable-sudo.md",
+    "linux/teoria/tipos-shells.md",
+    "linux/teoria/solicitudes-os.md",
+    "linux/teoria/sistemas-operativos.md",
+    "linux/teoria/glosario.md",
+    "linux/teoria/glosario-3.md",
+    "linux/teoria/glosario-2.md",
+    "linux/teoria/fhs.md",
+    "linux/teoria/cli.md",
+    "linux/teoria/arquitectura-linux.md",
+    "linux/teoria/administrador-paquetes.md",
+    "linux/teoria",
+    "ciberseguridad/linux-sql/tipos-shells.md",
+    "ciberseguridad/linux-sql/solicitudes-os.md",
     "ciberseguridad/linux-sql/sistemas-operativos.md",
-    "ciberseguridad/seguridad-redes/computacion-nube.md",
-    "ciberseguridad/seguridad-redes/dispositivos-red.md",
-    "ciberseguridad/seguridad-redes/img",
-    "ciberseguridad/seguridad-redes",
-    "ciberseguridad/linux-sql",
-    "ciberseguridad/gestionar-riesgos-seguridad/img/dominios-seguridad.png.crdownload",
-    "ciberseguridad/gestionar-riesgos-seguridad/img",
-    "ciberseguridad/gestionar-riesgos-seguridad",
-    "intel/calculo/nivel-2/img",
-    "intel/calculo/nivel-2"
+    "ciberseguridad/linux-sql/glosario-3.md",
+    "linux/guias/limpiar-sistema.md",
+    "ciberseguridad/seguridad-redes/evo-protocolos-seguridad-inalambrica.md",
+    "ciberseguridad/seguridad-redes/img/wpa.webp",
+    "ciberseguridad/seguridad-redes/protocolos-red-adicionales.md",
+    "ciberseguridad/seguridad-redes/evoo-protocolos-seguridad-inalambrica.md",
+    "ciberseguridad/linux-sql/img/fhs.webp",
+    "linux/comandos",
+    "linux/guias",
+    "ciberseguridad/seguridad-redes/img/paquete-ipv4.webp",
+    "ciberseguridad/seguridad-redes/img/header-paquete-ipv4.webp",
+    "apps/fzf.ms",
+    "ciberseguridad/linux-sql/img",
+    "web/html/ejercicios",
+    "Untitled"
   ]
 }
