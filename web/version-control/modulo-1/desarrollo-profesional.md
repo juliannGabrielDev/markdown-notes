@@ -1,5 +1,5 @@
 # Control de versiones en el desarrollo profesional de software
-#Teoría 
+#teoria 
 
 Creado: 26 de septiembre de 2024 1:30
 

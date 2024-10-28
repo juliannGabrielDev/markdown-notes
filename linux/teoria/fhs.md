@@ -1,5 +1,5 @@
 # Estándar de jerarquía del sistema de archivos (FHS)
-#linux #Ciberseguridad #Teoría 
+#linux #ciberseguridad #teoria 
 
 ---
 **Estándar de jerarquía del sistema de archivos** (FHS) es el componente de Linux que organiza los datos. El FHS es importante porque define cómo se organizan los directorios, el contenido de los directorios y otros tipos de almacenamiento en el sistema operativo.

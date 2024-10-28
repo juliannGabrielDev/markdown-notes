@@ -1,5 +1,5 @@
 # Términos del glosario del Módulo 3
-#Ciberseguridad #Teoría 
+#ciberseguridad #teoria 
 
 ---
 **Chronicle:** Una herramienta nativa de la nube diseñada para retener, analizar y buscar datos

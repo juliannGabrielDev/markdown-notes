@@ -1,5 +1,5 @@
 # Computación en la nube y redes definidas por software
-#redes #Ciberseguridad #Teoría 
+#redes #ciberseguridad #teoria 
 
 ---
 En esta sección del curso, ha estado aprendiendo la arquitectura básica de las redes. Ha aprendido cómo los dispositivos físicos de red como estaciones de trabajo, servidores, routers y switches se conectan entre sí para crear una red. Las redes pueden abarcar áreas geográficas pequeñas, como es el caso de una red de área local (LAN). O pueden abarcar un área geográfica extensa, como una ciudad, un estado o un país, como es el caso de una red de área extensa (WAN). También ha aprendido sobre las redes en la nube y cómo ha crecido la computación en la nube en los últimos años.

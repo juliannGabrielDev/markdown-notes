@@ -1,5 +1,5 @@
 # Utilice la tríada CID para proteger a las organizaciones
-#Ciberseguridad #Teoría 
+#ciberseguridad #teoria 
 
 ---
 La **tríada CID** es un Modelo que ayuda a informar sobre cómo las organizaciones consideran el riesgo cuando establecen sistemas y políticas de Seguridad. Se compone de tres elementos que los analistas de ciberseguridad y las organizaciones trabajan para mantener: confidencialidad, integridad y disponibilidad. Mantener un nivel de riesgo aceptable y garantizar que los sistemas y las políticas se diseñan teniendo en cuenta estos elementos ayuda a establecer una **postura de seguridad** satisfactoria, que se refiere a la capacidad de una organización para gestionar su defensa de los recursos y datos críticos y reaccionar ante los cambios.

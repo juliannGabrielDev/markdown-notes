@@ -1,5 +1,5 @@
 # Manuales de estrategias, herramientas SIEM y herramientas SOAR
-#Ciberseguridad #Teoría 
+#ciberseguridad #teoria 
 
 ---
 ## Manuales de estrategias y herramientas SIEM

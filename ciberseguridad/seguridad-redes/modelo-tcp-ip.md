@@ -1,5 +1,5 @@
 # Más información sobre el Modelo TCP/IP
-#Teoría #Ciberseguridad #redes 
+#teoria #ciberseguridad #redes 
 
 ---
 El **Modelo TCP/IP** es un framework utilizado para visualizar cómo se organizan y transmiten los datos a través de una red. Este Modelo ayuda a los ingenieros de redes y a los analistas de seguridad de redes a conceptualizar los procesos en la red y a comunicar dónde se producen las interrupciones o las amenazas a la seguridad.

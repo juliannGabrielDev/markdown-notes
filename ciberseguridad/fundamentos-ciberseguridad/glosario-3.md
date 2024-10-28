@@ -1,5 +1,5 @@
 # Términos del glosario del Módulo 3
-#Ciberseguridad #Teoría 
+#ciberseguridad #teoria 
 
 - **Recurso**: Elemento que se percibe como poseedor de valor para una organización
 - **Disponibilidad:** La idea de que los datos son accesibles para aquellos que están autorizados a acceder a ellos

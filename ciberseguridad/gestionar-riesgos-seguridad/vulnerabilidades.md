@@ -1,5 +1,5 @@
 # Vulnerabilidades más comunes en la actualidad
-#Teoría #Ciberseguridad 
+#teoria #ciberseguridad 
 
 ---
 Una **vulnerabilidad** es una debilidad que puede ser explotada por una amenaza. Por lo tanto, las organizaciones necesitan inspeccionar regularmente las vulnerabilidades de sus sistemas. Algunas vulnerabilidades incluyen:

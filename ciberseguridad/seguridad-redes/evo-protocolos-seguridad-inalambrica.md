@@ -1,5 +1,5 @@
 # La evolución de los protocolos de Seguridad inalámbrica
-#redes #Ciberseguridad #Teoría 
+#redes #ciberseguridad #teoria 
 
 ---
 En los primeros tiempos de Internet, todas las comunicaciones se realizaban a través de cables físicos. No fue hasta mediados de la década de 1980 cuando las autoridades de Estados Unidos designaron un espectro de frecuencias de ondas de radio que podían utilizarse sin licencia, por lo que Internet tuvo más oportunidades de expandirse.

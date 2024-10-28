@@ -1,5 +1,5 @@
 # Autenticación y autorización con `sudo`
-#comandos #linux #Ciberseguridad 
+#comandos #linux #ciberseguridad 
 
 ---
 Puede utilizar sudo con muchas tareas de gestión de autenticación y autorización. Como recordatorio, **la autenticación** es el proceso de verificar quién es alguien, y **la autorización** es el concepto de conceder acceso a recursos específicos en un sistema. Algunos de los comandos clave utilizados para estas tareas son los siguientes:

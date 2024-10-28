@@ -1,5 +1,5 @@
 # Herramientas para proteger las operaciones de Negocio a negocio (Business to Business)
-#Teoría #Ciberseguridad 
+#teoria #ciberseguridad 
 
 En esta lectura, más sobre como las habilidades técnicas y las herramientas ayudan a los analistas de Seguridad a mitigar los riesgos.
 

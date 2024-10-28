@@ -1,5 +1,5 @@
 # Información sobre auditorías de seguridad
-#Teoría #Ciberseguridad 
+#teoria #ciberseguridad
 
 ---
 Una **Auditoría** de seguridad es una revisión de los Controles de seguridad, políticas y Procedimientos de una organización contra un conjunto de expectativas. Las auditorías son revisiones independientes que evalúan si una organización cumple los criterios internos y externos. Los criterios internos incluyen las políticas, los procedimientos y las mejores prácticas descritas. Los criterios externos incluyen el cumplimiento normativo, las leyes y las regulaciones federales.

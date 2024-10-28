@@ -1,5 +1,5 @@
 # Más sobre los manuales de estrategias
-#Teoría #Ciberseguridad 
+#teoria #ciberseguridad 
 
 ---
 Un libro **de estrategias** es un manual que ==proporciona detalles sobre cualquier acción operativa==. Esencialmente, un manual de estrategias proporciona una lista predefinida y actualizada de los pasos a seguir cuando se responde a un incidente.

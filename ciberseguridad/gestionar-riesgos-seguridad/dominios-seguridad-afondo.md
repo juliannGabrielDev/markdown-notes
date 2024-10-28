@@ -1,5 +1,5 @@
 # Dominios de seguridad que los analistas de Ciberseguridad deben conocer.
-#Teoría #Ciberseguridad 
+#teoria #ciberseguridad 
 
 ---
 Como analista, puede explorar diversas áreas de la ciberseguridad que le interesen. Una forma de explorar esas áreas es ==comprendiendo los diferentes dominios de Seguridad y cómo se utilizan para organizar el trabajo de los profesionales de la Seguridad==. En esta lectura aprenderá más sobre los ocho dominios de Seguridad del CISSP y cómo se relacionan con el trabajo que realizará como analista de seguridad.

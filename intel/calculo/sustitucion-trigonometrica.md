@@ -1,5 +1,5 @@
 # Integración por sustitución trigonométrica
-#Teoría #integrales
+#teoria #integrales
 
 ---
 La **integración por sustitución trigonométrica** es una técnica útil cuando nos encontramos con integrales que involucran expresiones cuadráticas dentro de raíces o fracciones.

@@ -1,5 +1,5 @@
 # Protocolos de Red Adicionales
-#redes #Ciberseguridad #Teoría 
+#redes #ciberseguridad #teoria 
 
 ---
 Esta lectura le presentará algunos conceptos y protocolos adicionales que surgirán con regularidad en su trabajo como analista de Seguridad. La Autoridad de Números Asignados en Internet (IANA) asigna números de puerto a algunos protocolos. Estos números de puerto se incluyen en la descripción de cada protocolo, si se han asignado.

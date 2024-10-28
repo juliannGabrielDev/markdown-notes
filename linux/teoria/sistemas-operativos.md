@@ -1,5 +1,5 @@
 # Comparar sistemas operativos
-#Teoría #Ciberseguridad 
+#teoria #ciberseguridad 
 
 ---
 ## Sistemas operativos habituales

@@ -1,5 +1,5 @@
 # Términos del glosario del Módulo 1
-#Ciberseguridad #Teoría 
+#ciberseguridad #teoria 
 
 ---
 **Aplicación:** Programa que realiza una tarea específica

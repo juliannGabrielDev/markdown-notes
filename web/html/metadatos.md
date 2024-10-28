@@ -1,5 +1,5 @@
 # Hoja de trucos sobre metadatos
-#html #Teoría 
+#html #teoria 
 
 ---
 ## Etiquetas HTML `<meta>`

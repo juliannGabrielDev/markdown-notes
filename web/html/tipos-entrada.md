@@ -1,5 +1,5 @@
 # Tipos de entrada
-#Teoría #html #sintaxis 
+#teoria #html #sintaxis 
 
 ---
 Esta hoja de trucos debería servirle de referencia para decidir qué tipo se adapta mejor a su caso de uso. La mayoría de las entradas van de la mano con la etiqueta label para las mejores prácticas de accesibilidad.

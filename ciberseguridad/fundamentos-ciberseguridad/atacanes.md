@@ -1,5 +1,5 @@
 # Comprender a los atacantes
-#Teoría #Ciberseguridad 
+#teoria #ciberseguridad
 
 ## Tipos de agentes de amenaza
 ### Amenaza persistente avanzada

@@ -1,5 +1,5 @@
 # La línea de comandos en uso
-#Teoría #Ciberseguridad 
+#teoria #ciberseguridad 
 
 ---
 ## CLI frente a GUI

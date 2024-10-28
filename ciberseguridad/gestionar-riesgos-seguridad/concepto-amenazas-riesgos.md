@@ -1,5 +1,5 @@
 # Amenazas y riesgos más comunes en la actualidad
-#Teoría #Ciberseguridad 
+#teoria #ciberseguridad 
 
 ---
 ## Amenazas

@@ -1,5 +1,5 @@
 # Controles, marcos y cumplimiento normativo
-#Teoría #Ciberseguridad 
+#teoria #ciberseguridad 
 
 Cómo se relacionan los controles, los marcos y el cumplimiento de la normativa.
 

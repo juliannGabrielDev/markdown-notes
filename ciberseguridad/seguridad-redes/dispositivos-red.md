@@ -1,5 +1,5 @@
 # Componentes, diagramas y dispositivos de red
-#Teoría #redes #Ciberseguridad 
+#teoria #redes #ciberseguridad 
 
 ---
 Una comprensión básica de la arquitectura de redes, a veces denominada diseño de redes, le ayudará a medida que conozca las vulnerabilidades de seguridad inherentes a todas las redes y cómo los actores maliciosos intentan explotarlas. ¡Empecemos!

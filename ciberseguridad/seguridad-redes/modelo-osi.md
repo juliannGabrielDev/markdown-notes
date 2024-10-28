@@ -1,5 +1,5 @@
 # El modelo OSI
-#redes #Ciberseguridad #Teoría 
+#redes #ciberseguridad #teoria  
 
 ---
 El **Modelo TCP/IP** es un framework utilizado para visualizar cómo se organizan y transmiten los datos a través de una red. Este Modelo ayuda a los ingenieros de redes y a los analistas de seguridad a conceptualizar los procesos en la red y a comunicar dónde se producen las interrupciones o las amenazas a la seguridad.

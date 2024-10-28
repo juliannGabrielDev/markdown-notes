@@ -37,8 +37,8 @@
 // Settings in here override those in "Default/Preferences.sublime-settings",
 // and are overridden in turn by syntax-specific settings.
 {
-	"font_size": 16,
-	"font_face": "Jetbrains Mono",
+	"font_size": 14,
+	"font_face": "JetBrainsMono Nerd Font",
 	"save_on_focus_lost": true,
 	"highlight_line": true,
 	"caret_style": "phase",
@@ -48,9 +48,10 @@
 	"theme": "Adaptive.sublime-theme",
 	"color_scheme": "Packages/Aura Theme Color Scheme/aura-theme.tmTheme",
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": "true",
+	"trim_trailing_white_space_on_save": "none",
 	"ignored_packages":
 	[
+		"Package Control",
 		"Vintage",
 	],
 	"index_files": true,
@@ -63,7 +64,7 @@
 - All Autocomplete
 - Auto File Name
 - Bracket Highlighter
-- Color Highlighter
+- Color Highlight
 - CSS3
 - GitGutter
 - Emmet
@@ -71,7 +72,28 @@
 - Javascript & NodeJS Snippets
 - JsLint
 - SideBarEnhancements
-- SunlimeCodeIntel
+- SublimeCodeIntel
 - SublimeLinter
 - SublimeLinter-gcc
 - Terminus
+- SublimeLinter-html-tidy
+
+### Terminus para `c`
+```json
+{
+    "target": "terminus_exec",
+    "cancel": "terminus_cancel_build",
+    "shell_cmd": "gcc \"${file}\" -o \"${file_path}/${file_base_name}\"",
+    "file_regex": "^(..[^:]*):([0-9]+):?([0-9]+)?:? (.*)$",
+    "working_dir": "${file_path}",
+    "selector": "source.c",
+
+    "variants":
+    [
+        {
+            "name": "Run",
+            "shell_cmd": "gcc \"${file}\" -o \"${file_path}/${file_base_name}\" && \"${file_path}/${file_base_name}\""
+        }
+    ]
+}
+```

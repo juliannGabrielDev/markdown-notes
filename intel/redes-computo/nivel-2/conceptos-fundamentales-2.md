@@ -1,5 +1,5 @@
 # Repaso de conceptos fundamentales 2
-#Examen #Teoría 
+#Examen #teoria 
 
 ---
 ### Indique los niveles del modelo de Internet (OSI)

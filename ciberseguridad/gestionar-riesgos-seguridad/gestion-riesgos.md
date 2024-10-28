@@ -1,4 +1,4 @@
-#Teoría #Ciberseguridad 
+#teoria #ciberseguridad 
 
 ---
 Un objetivo primordial de las organizaciones es proteger los recursos. Un **recurso** es un artículo que se percibe que tiene valor para una organización. Los recursos pueden ser digitales o físicos. Algunos ejemplos de recursos digitales son la información personal de empleados, clientes o Proveedores, como:

@@ -1,5 +1,5 @@
 # Uso responsable de sudo
-#Ciberseguridad #linux #Teoría 
+#ciberseguridad #linux #teoria 
 
 ---
 El comando `sudo` es importante para los analistas de Seguridad porque ==permite a los usuarios tener permisos elevados sin poner en riesgo el sistema== ejecutando comandos como usuario raíz.

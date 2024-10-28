@@ -1,5 +1,5 @@
 # Términos del glosario del Módulo 2
-#Teoría #Ciberseguridad 
+#teoria #ciberseguridad 
 
 ---
 **Recurso** : Elemento que se percibe como poseedor de valor para una organización

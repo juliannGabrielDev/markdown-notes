@@ -1,5 +1,5 @@
 # Ataques comunes y su eficacia
-#Teoría #Ciberseguridad
+#teoria #ciberseguridad
 
 Familiarizarse con los diferentes métodos de ataque, y con las tácticas y técnicas en evolución que utilizan los agentes de amenazas, le ayudará a proteger mejor a las organizaciones y a las personas.
 

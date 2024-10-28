@@ -1,5 +1,5 @@
 # Solicitudes al Sistema Operativo
-#Ciberseguridad #Teoría 
+#ciberseguridad #teoria 
 
 ---
 ## Finalización de una tarea

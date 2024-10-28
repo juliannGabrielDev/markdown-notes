@@ -1,5 +1,5 @@
 # Navegar por Linux y leer el contenido de los archivos
-#comandos #Ciberseguridad #linux
+#comandos #ciberseguridad #linux
 
 ---
 ## Comandos clave para navegar por el sistema de archivos

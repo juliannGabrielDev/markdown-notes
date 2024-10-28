@@ -1,5 +1,5 @@
 # Términos del glosario del Módulo 4
-#Teoría #Ciberseguridad 
+#teoria #ciberseguridad 
 
 - **Software antivirus:** Programa de software utilizado para prevenir, detectar y eliminar software malicioso y virus
 - **Base de datos:** Una colección organizada de Información o Datos

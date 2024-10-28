@@ -1,5 +1,5 @@
 # Administradores de paquetes para instalar aplicaciones
-#Ciberseguridad #Teoría 
+#ciberseguridad #teoria 
 
 ---
 ## Introducción a los administradores de paquetes

@@ -1,5 +1,5 @@
 # Diseño
-#Teoría #html
+#teoria #html
 
 ---
 A medida que construya páginas web a lo largo de su carrera, observará que muchas de ellas siguen diseños y estructuras similares. ==Este es el resultado de muchos años de investigación== sobre el diseño de la interfaz de usuario y la experiencia del usuario.

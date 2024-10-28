@@ -1,5 +1,5 @@
 # Identidades trigonométricas
-#Teoría #integrales 
+#teoria #integrales 
 
 ---
 

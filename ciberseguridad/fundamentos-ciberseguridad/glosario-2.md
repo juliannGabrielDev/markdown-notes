@@ -1,5 +1,5 @@
 # Términos del glosario del Módulo 2
-#Ciberseguridad #Teoría 
+#ciberseguridad #teoria 
 
 - **Inteligencia artificial (IA) antagónica:** Una técnica que manipula la inteligencia artificial (IA) y la tecnología de aprendizaje automático (ML) para llevar a cabo ataques de forma más eficiente.
 

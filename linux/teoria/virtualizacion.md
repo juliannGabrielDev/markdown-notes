@@ -1,5 +1,5 @@
 # Tecnología de virtualización
-#Ciberseguridad #Teoría 
+#ciberseguridad #teoria 
 
 ---
 La virtualización es el proceso de utilizar software para crear representaciones virtuales de varias máquinas físicas. El término "virtual" se refiere a máquinas que no existen físicamente, pero que funcionan como si lo hicieran porque su software simula el hardware físico. Los sistemas virtuales no utilizan hardware físico dedicado. En su lugar, utilizan versiones definidas por software del hardware físico. Esto significa que una sola máquina virtual tiene una CPU virtual, almacenamiento virtual y otro hardware virtual. Los sistemas virtuales son sólo código.

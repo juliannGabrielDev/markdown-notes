@@ -1,5 +1,5 @@
 # Términos del glosario del módulo 1
-#Teoría #Ciberseguridad 
+#teoria #Ciberseguridad 
 
 ---
 **Evaluar:** El quinto paso del RMF del NIST que significa determinar si los controles establecidos se implementan correctamente

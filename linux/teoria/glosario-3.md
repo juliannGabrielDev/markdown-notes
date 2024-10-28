@@ -1,5 +1,5 @@
 # Términos del glosario del Módulo 3
-#Ciberseguridad #linux #Teoría 
+#ciberseguridad #linux #teoria 
 
 ---
 **Ruta de archivo absoluta:** La ruta de acceso completa del archivo, que comienza desde la raíz

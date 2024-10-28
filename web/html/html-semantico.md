@@ -1,5 +1,5 @@
 # Hoja de trucos de HTML semántico
-#html #Teoría 
+#html #teoria 
 
 ---
 

@@ -1,5 +1,5 @@
 # Explicación de la arquitectura de Linux
-#Ciberseguridad #Teoría 
+#ciberseguridad #teoria
 
 ---
 Comprender la arquitectura de Linux es importante para un analista de Seguridad. Cuando se comprende cómo está organizado un sistema, resulta más fácil entender cómo funciona. En esta lectura, aprenderá más sobre los componentes individuales de la arquitectura Linux. Una solicitud para completar una tarea comienza con el usuario y luego fluye a través de las aplicaciones, el shell, el Estándar de jerarquía del sistema de archivos, el kernel y el hardware.

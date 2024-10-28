@@ -1,5 +1,5 @@
 # Información sobre los principios de seguridad OWASP
-#Teoría #Ciberseguridad 
+#teoria #ciberseguridad 
 
 ---
 En el lugar de trabajo, los principios de seguridad están integrados en las tareas diarias. Ya sea analizando registros, supervisando un panel de administración de información y eventos de seguridad (SIEM) o utilizando un [escáner de vulnerabilidades](https://csrc.nist.gov/glossary/term/vulnerability_scanner), utilizará estos principios de alguna manera.

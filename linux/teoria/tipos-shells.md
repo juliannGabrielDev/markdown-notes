@@ -1,5 +1,5 @@
 # Diferentes tipos de shells
-#Teoría #Ciberseguridad 
+#teoria #ciberseguridad 
 
 ---
 Saber trabajar con los shells de Linux es una habilidad importante para los profesionales de la ciberseguridad. Los shells se pueden utilizar para muchas tareas comunes. Esta lectura repasará los shells y le presentará diferentes tipos.

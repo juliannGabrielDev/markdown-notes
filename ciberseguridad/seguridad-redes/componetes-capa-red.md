@@ -1,5 +1,5 @@
 # Componetes de la capa de red de comunicación
-#Teoría #redes #Ciberseguridad 
+#teoria #redes #ciberseguridad 
 
 ---
 ## Operaciones en la capa de red

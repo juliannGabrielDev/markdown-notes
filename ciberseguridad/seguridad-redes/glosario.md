@@ -1,5 +1,5 @@
 # Términos del glosario del Módulo 1
-#Teoría #Ciberseguridad #redes 
+#teoria #ciberseguridad #redes 
 
 ---
 **Ancho de banda** : Capacidad máxima de transmisión de datos a través de una red, medida en bits por segundo

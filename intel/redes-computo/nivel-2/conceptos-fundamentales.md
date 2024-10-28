@@ -1,5 +1,5 @@
 # Repaso de conceptos fundamentales
-#Examen #Teoría 
+#Examen #teoria 
 
 ---
 ### Identifique los cinco componentes de un **sistema de comunicación de datos**.

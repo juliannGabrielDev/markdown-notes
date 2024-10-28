@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b408d0a73478a431",
+        "id": "8eb4a4f8e5a69c8f",
         "type": "tabs",
         "children": [
           {
-            "id": "d92849e524f1eb88",
+            "id": "bcf3509bed4006dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ciberseguridad/seguridad-redes/protocolos-red-adicionales.md",
+                "file": "ciberseguridad/seguridad-redes/ddos-vida-real.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "protocolos-red-adicionales"
+              "title": "ddos-vida-real"
             }
           }
         ]
@@ -43,7 +43,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de archivos"
+              "title": "Files"
             }
           },
           {
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#redes",
+                "query": "tag:#ciberseguridad",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -154,61 +154,61 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "d92849e524f1eb88",
+  "active": "bcf3509bed4006dd",
   "lastOpenFiles": [
-    "apps/fzf.md",
+    "ciberseguridad/seguridad-redes/tcpdump.md",
+    "ciberseguridad/seguridad-redes/ddos-vida-real.md",
+    "ciberseguridad/seguridad-redes/img/salida-tcpdump.webp",
+    "ciberseguridad/seguridad-redes/glosario-2.md",
+    "ciberseguridad/seguridad-redes/servidor-proxy.md",
+    "ciberseguridad/seguridad-redes/firewalls.md",
+    "ciberseguridad/seguridad-redes/vpn.md",
+    "ciberseguridad/seguridad-redes/division-subredes.md",
+    "ciberseguridad/seguridad-redes/redes-virtuales.md",
+    "ciberseguridad/seguridad-redes/protocolos-red-adicionales.md",
+    "ciberseguridad/seguridad-redes/evo-protocolos-seguridad-inalambrica.md",
+    "Music.md",
+    "ciberseguridad/gestionar-riesgos-seguridad/vulnerabilidades.md",
+    "linux/teoria/virtualizacion.md",
+    "linux/teoria/uso-responsable-sudo.md",
+    "ciberseguridad/gestionar-riesgos-seguridad/triada-cid.md",
+    "linux/teoria/tipos-shells.md",
     "apps/the-sleuth-kit.md",
-    "intel/calculo/nivel-2/identidades-trigonometricas.md",
-    "sql/diagrama-er-chen.md",
-    "sql/img/entidad-2.webp",
+    "apps/suricata.md",
+    "linux/comandos/sudo-autenticacion-autorizacion.md",
+    "linux/teoria/solicitudes-os.md",
+    "linux/teoria/sistemas-operativos.md",
+    "ciberseguridad/seguridad-redes/protocolos-red.md",
+    "ciberseguridad/gestionar-riesgos-seguridad/principios-owasp.md",
+    "linux/comandos/navegacion-lectura.md",
+    "ciberseguridad/seguridad-redes/modelo-tcp-ip.md",
+    "ciberseguridad/seguridad-redes/modelo-osi.md",
+    "sql/img/full-outer-join.webp",
+    "sql/img/right-join.webp",
+    "sql/img/left-join.webp",
+    "sql/img/inner-join.webp",
     "sql/img/entidad.webp",
+    "sql/teoria",
+    "sql/sintaxis",
+    "sql/img/entidad-2.webp",
     "sql/img",
     "sql",
-    "2024-10-16.md",
     "linux/teoria/img/virtual.webp",
     "linux/teoria/img/solicitud-os.webp",
     "linux/teoria/img/gui-cli.webp",
-    "linux/teoria/img/fhs.webp",
     "linux/teoria/img",
-    "ciberseguridad/linux-sql/uso-responsable-sudo.md",
-    "linux/teoria/virtualizacion.md",
-    "linux/teoria/uso-responsable-sudo.md",
-    "linux/teoria/tipos-shells.md",
-    "linux/teoria/solicitudes-os.md",
-    "linux/teoria/sistemas-operativos.md",
-    "linux/teoria/glosario.md",
-    "linux/teoria/glosario-3.md",
-    "linux/teoria/glosario-2.md",
-    "linux/teoria/fhs.md",
-    "linux/teoria/cli.md",
-    "linux/teoria/arquitectura-linux.md",
-    "linux/teoria/administrador-paquetes.md",
     "linux/teoria",
-    "ciberseguridad/linux-sql/tipos-shells.md",
-    "ciberseguridad/linux-sql/solicitudes-os.md",
-    "ciberseguridad/linux-sql/sistemas-operativos.md",
-    "ciberseguridad/linux-sql/glosario-3.md",
-    "linux/guias/limpiar-sistema.md",
-    "ciberseguridad/seguridad-redes/evo-protocolos-seguridad-inalambrica.md",
-    "ciberseguridad/seguridad-redes/img/wpa.webp",
-    "ciberseguridad/seguridad-redes/protocolos-red-adicionales.md",
-    "ciberseguridad/seguridad-redes/evoo-protocolos-seguridad-inalambrica.md",
-    "ciberseguridad/linux-sql/img/fhs.webp",
     "linux/comandos",
     "linux/guias",
-    "ciberseguridad/seguridad-redes/img/paquete-ipv4.webp",
-    "ciberseguridad/seguridad-redes/img/header-paquete-ipv4.webp",
     "apps/fzf.ms",
-    "ciberseguridad/linux-sql/img",
-    "web/html/ejercicios",
-    "Untitled"
+    "ciberseguridad/linux-sql/img"
   ]
 }

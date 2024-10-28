@@ -1,5 +1,5 @@
 # Tarjetas de medios sociales (Open Graph Protocol)
-#html #Teoría 
+#html #teoria 
 
 ---
 ```html

@@ -1,4 +1,4 @@
-# Conceptos éticos que guían las decisiones sobre #Ciberseguridad
+# Conceptos éticos que guían las decisiones sobre #ciberseguridad
 
 ## Punto de vista internacional sobre los contraataques
 La Corte Internacional de Justicia (CIJ), que actualiza sus orientaciones con regularidad, afirma que una persona o un grupo puede contraatacar si:

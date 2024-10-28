@@ -1,5 +1,5 @@
 # Introducción a los 8 dominios de seguridad CISSP
-#Teoría #Ciberseguridad 
+#teoria #ciberseguridad 
 
 A partir de 2022, el CISSP ha definido ocho dominios para organizar el trabajo de los profesionales de la Seguridad. Es importante entender que estos dominios están relacionados y que las brechas en un dominio pueden tener consecuencias negativas para toda la organización.
 

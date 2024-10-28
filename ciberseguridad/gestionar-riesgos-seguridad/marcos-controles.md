@@ -1,5 +1,5 @@
 # La relación entre los marcos y los controles
-#Ciberseguridad #Teoría 
+#ciberseguridad #teoria 
 
 ---
 **Los marcos de seguridad** son directrices que se utilizan para elaborar planes que ayuden a mitigar los riesgos y las amenazas para los datos y la privacidad. Los marcos apoyan la capacidad de las organizaciones para adherirse a las leyes y Regulaciones de Cumplimiento. Por ejemplo, el sector sanitario utiliza marcos para cumplir la Ley de Transferencia y Responsabilidad de los Seguros Médicos (HIPAA) de Estados Unidos, que exige que los profesionales médicos mantengan a salvo la información de los pacientes.

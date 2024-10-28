@@ -1,0 +1,7 @@
+# Redes privadas virtuales (VPN)
+#ciberseguridad #redes #teoria 
+
+---
+Una VPN es un servicio que encripta Datos en tránsito y disfraza su dirección IP. Las VPN utilizan un proceso llamado **Encapsulación**. ==La encapsulación envuelve sus datos no cifrados en un paquete de datos cifrados, lo que permite que sus datos se envíen a través de la red pública permaneciendo en el anonimato==. Las empresas y otras organizaciones utilizan las VPN para ayudar a proteger las comunicaciones desde los dispositivos de los usuarios a los recursos corporativos. Algunos de estos recursos incluyen servidores o máquinas virtuales que alojan aplicaciones empresariales. Los particulares también utilizan las VPN para aumentar su privacidad personal. Las VPN protegen la privacidad del usuario ocultando su información personal, incluidas las direcciones IP, a servidores externos. 
+
+Una VPN de buena reputación también minimiza su propio acceso a la actividad del usuario en Internet utilizando una fuerte encriptación y otras medidas de Seguridad. Las organizaciones utilizan cada vez más una combinación de VPN y SD-WAN para proteger sus redes. Una red de área extensa definida por software (SD-WAN) es un servicio WAN virtual que permite a las organizaciones conectar de forma segura a los usuarios con aplicaciones en múltiples ubicaciones y a través de grandes distancias geográficas.

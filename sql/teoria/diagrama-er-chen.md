@@ -13,7 +13,7 @@ Una entidad es una representación de algo. Lo que hacemos con las entidades es 
 
 - **Simples:** Datos únicos. Ej. precio. ==Ovalo==
 - **Compuestos:** formato por otros atributos "más pequeños". Ej. ambientes. ==Ramas==
-- **Multivalor:** Tienen más de un valor. Ej. ventanas, puertas. ==Doble ovalo==
+- **Multi-valor:** Tienen más de un valor. Ej. ventanas, puertas. ==Doble ovalo==
 - **Derivados:** Se pueden obtener con cualquier otra información. Ej. antiguedad, ubicación. ==Punteado==
 - **Clave:** Atributo usando para identificar algo. ==Subrayado==
 ![Ejemplo de entidad y sus atributos](img/entidad-2.webp)
