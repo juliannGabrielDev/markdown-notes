@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8eb4a4f8e5a69c8f",
+        "id": "b15fe2a52b9e867f",
         "type": "tabs",
         "children": [
           {
-            "id": "bcf3509bed4006dd",
+            "id": "d5f15288082df1e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ciberseguridad/seguridad-redes/ddos-vida-real.md",
+                "file": "web/4-html-css-depth/411-html-semantico.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ddos-vida-real"
+              "title": "411-html-semantico"
             }
           }
         ]
@@ -43,7 +43,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ciberseguridad",
+                "query": "tag:#curso-3",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -154,61 +154,61 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "bcf3509bed4006dd",
+  "active": "d5f15288082df1e2",
   "lastOpenFiles": [
-    "ciberseguridad/seguridad-redes/tcpdump.md",
-    "ciberseguridad/seguridad-redes/ddos-vida-real.md",
-    "ciberseguridad/seguridad-redes/img/salida-tcpdump.webp",
-    "ciberseguridad/seguridad-redes/glosario-2.md",
-    "ciberseguridad/seguridad-redes/servidor-proxy.md",
-    "ciberseguridad/seguridad-redes/firewalls.md",
-    "ciberseguridad/seguridad-redes/vpn.md",
-    "ciberseguridad/seguridad-redes/division-subredes.md",
-    "ciberseguridad/seguridad-redes/redes-virtuales.md",
-    "ciberseguridad/seguridad-redes/protocolos-red-adicionales.md",
-    "ciberseguridad/seguridad-redes/evo-protocolos-seguridad-inalambrica.md",
-    "Music.md",
-    "ciberseguridad/gestionar-riesgos-seguridad/vulnerabilidades.md",
-    "linux/teoria/virtualizacion.md",
-    "linux/teoria/uso-responsable-sudo.md",
-    "ciberseguridad/gestionar-riesgos-seguridad/triada-cid.md",
-    "linux/teoria/tipos-shells.md",
-    "apps/the-sleuth-kit.md",
-    "apps/suricata.md",
-    "linux/comandos/sudo-autenticacion-autorizacion.md",
-    "linux/teoria/solicitudes-os.md",
-    "linux/teoria/sistemas-operativos.md",
-    "ciberseguridad/seguridad-redes/protocolos-red.md",
-    "ciberseguridad/gestionar-riesgos-seguridad/principios-owasp.md",
-    "linux/comandos/navegacion-lectura.md",
-    "ciberseguridad/seguridad-redes/modelo-tcp-ip.md",
-    "ciberseguridad/seguridad-redes/modelo-osi.md",
-    "sql/img/full-outer-join.webp",
-    "sql/img/right-join.webp",
-    "sql/img/left-join.webp",
-    "sql/img/inner-join.webp",
-    "sql/img/entidad.webp",
-    "sql/teoria",
-    "sql/sintaxis",
-    "sql/img/entidad-2.webp",
-    "sql/img",
-    "sql",
-    "linux/teoria/img/virtual.webp",
-    "linux/teoria/img/solicitud-os.webp",
-    "linux/teoria/img/gui-cli.webp",
-    "linux/teoria/img",
-    "linux/teoria",
-    "linux/comandos",
-    "linux/guias",
-    "apps/fzf.ms",
-    "ciberseguridad/linux-sql/img"
+    "web/4-html-css-depth/420-iframe.md",
+    "web/4-html-css-depth/419-iframe.md",
+    "web/4-html-css-depth/419-imagenes.md",
+    "web/4-html-css-depth/411-html-semantico.md",
+    "web/4-html-css-depth/412-metadatos.md",
+    "web/4-html-css-depth/413-disenio.md",
+    "web/4-html-css-depth/414-tarjeta-medios-sociales.md",
+    "web/4-html-css-depth/415-tipos-entrada.md",
+    "web/4-html-css-depth/416-elementos-interactivos-formularios.md",
+    "web/4-html-css-depth/417-enviar.md",
+    "web/4-html-css-depth/418-elementos-formularios.md",
+    "web/4-html-css-depth/ejercicios/41-rating-video.md",
+    "web/4-html-css-depth/ejercicios/41-formulario-avanzado.md",
+    "web/4-html-css-depth/ejercicios/41-formularios.md",
+    "web/3-version-control/modulo-3/img/github-ssh-conexion.webp",
+    "web/3-version-control/modulo-3/img/github-http-conexion.webp",
+    "web/3-version-control/modulo-3/img/blame.webp",
+    "web/3-version-control/modulo-3/repo-local-remoto.md",
+    "web/3-version-control/modulo-3/ramas.md",
+    "web/3-version-control/modulo-3/img",
+    "web/3-version-control/modulo-3/historial-merge.md",
+    "web/3-version-control/modulo-3/head.md",
+    "web/3-version-control/modulo-3/git-diff.md",
+    "web/3-version-control/modulo-3/gh-auth-login.md",
+    "web/3-version-control/modulo-3/forking.md",
+    "web/3-version-control/modulo-3/flujo-git.md",
+    "web/3-version-control/modulo-3/diferencia-git-github.md",
+    "web/3-version-control/modulo-3/conexion-ssh.md",
+    "web/3-version-control/modulo-3/conexion-https.md",
+    "web/3-version-control/modulo-3/cli-clonar-repo.md",
+    "web/3-version-control/modulo-3",
+    "web/3-version-control/modulo-1",
+    "web/3-version-control",
+    "web/4-html-css-depth/img/tarjeta-medios.webp",
+    "web/4-html-css-depth/img/panel-control.webp",
+    "web/4-html-css-depth/img/disenio.webp",
+    "web/4-html-css-depth/img/carrusel.webp",
+    "web/4-html-css-depth/img/blog.webp",
+    "web/4-html-css-depth/img/blog-2.webp",
+    "web/4-html-css-depth/ejercicios",
+    "web/4-html-css-depth/img",
+    "web/4-html-css-depth",
+    "ciberseguridad/5-riesgos-amenazas-vulnerabilidades/img/nist-csf.webp",
+    "ciberseguridad/5-riesgos-amenazas-vulnerabilidades/img",
+    "ciberseguridad/5-riesgos-amenazas-vulnerabilidades",
+    "Sin nombre"
   ]
 }

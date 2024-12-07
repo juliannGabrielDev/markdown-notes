@@ -18,7 +18,7 @@ Los CSP ofrecen tres categorías principales de servicios:
 - La **infraestructura** como servicio **(IaaS)** se refiere al uso de componentes informáticos virtuales ofrecidos por el CSP. Estos incluyen contenedores virtuales y almacenamiento que se configuran de forma remota a través de la API o la consola web del CSP. Los servicios de computación en la nube y almacenamiento pueden utilizarse para operar aplicaciones existentes y otras cargas de trabajo tecnológicas sin modificaciones significativas. Las aplicaciones existentes pueden modificarse para aprovechar las características de disponibilidad, rendimiento y seguridad que son exclusivas de los servicios del proveedor de la nube.
     
 - La **plataforma como servicio (PaaS** ) hace referencia a las herramientas que los desarrolladores de aplicaciones pueden utilizar para diseñar aplicaciones personalizadas para su empresa. Las aplicaciones personalizadas se diseñan y se accede a ellas en la nube y se utilizan para las necesidades empresariales específicas de una empresa.
-![CSp](img/csp.webp)
+![CSp](csp.webp)
 ## Entornos de nube híbrida
 
 Cuando las organizaciones utilizan los servicios de un CSP además de sus ordenadores, redes y almacenamiento locales, se habla de un entorno de nube híbrida. Cuando las organizaciones utilizan más de un CSP, se denomina entorno de nubes múltiples. La gran mayoría de las organizaciones utilizan entornos de nube híbrida para reducir costes y mantener el control sobre los recursos de red.

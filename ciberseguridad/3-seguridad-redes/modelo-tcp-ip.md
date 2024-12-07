@@ -5,7 +5,7 @@
 El **Modelo TCP/IP** es un framework utilizado para visualizar cómo se organizan y transmiten los datos a través de una red. Este Modelo ayuda a los ingenieros de redes y a los analistas de seguridad de redes a conceptualizar los procesos en la red y a comunicar dónde se producen las interrupciones o las amenazas a la seguridad.
 
 El Modelo TCP/IP tiene cuatro capas: ==la capa de accesibilidad a la red, la capa de Internet, la capa de transporte y la capa de aplicación==. Cuando se solucionan problemas en la red, los profesionales de la Seguridad pueden analizar qué capas se vieron afectadas por un ataque en función de los procesos implicados en un incidente.
-![Módelo TCP/iP](img/modelo-tcp-ip.webp)
+![Módelo TCP/iP](modelo-tcp-ip.webp)
 ## Capa de acceso a la red
 
 La capa de acceso a la red, a veces denominada capa de vínculo de datos, se ocupa de la **creación de paquetes de datos y su transmisión a través de una red**. Esta capa corresponde al hardware físico implicado en la transmisión de la red. Concentradores, módems, cables y cableado se consideran parte de esta capa. 
@@ -41,7 +41,7 @@ La capa de aplicación en el Modelo TCP/IP es similar a las capas de aplicación
 
 Los protocolos de la capa de aplicación se basan en capas subyacentes para transferir los datos a través de la red.
 ## Modelo TCP/IP frente al modelo OSI
-![Modelo TCP/IP frente al modelo OSI](img/tcp-osi.webp)
+![Modelo TCP/IP frente al modelo OSI](tcp-osi.webp)
 El **OSI** organiza visualmente los protocolos de redes en diferentes capas. Los profesionales de las redes suelen utilizar este modelo para comunicarse entre sí sobre posibles fuentes de problemas o amenazas a la seguridad cuando se producen.
 
 El Modelo TCP/IP combina varias capas del modelo OSI. Existen muchas similitudes entre ambos Modelos. Ambos Modelos definen Estándares para las redes y dividen el proceso de comunicación de la red en diferentes capas. El Modelo TCP/IP es una versión simplificada del modelo OSI.

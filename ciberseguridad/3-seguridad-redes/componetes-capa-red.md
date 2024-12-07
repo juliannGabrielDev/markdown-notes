@@ -8,11 +8,11 @@ Las funciones en la capa de red organizan el direccionamiento y la entrega de pa
 
 Todos los paquetes de datos incluyen una dirección IP. Un paquete de datos también se denomina paquete IP para las conexiones TCP o datagrama para las conexiones UDP. Un router utiliza la dirección IP para encaminar los paquetes de una red a otra basándose en la información contenida en el encabezado IP de un paquete de datos. La Información del Encabezado comunica algo más que la dirección del destino. También incluye información como la dirección IP de origen, el tamaño del paquete y qué protocolo se utilizará para la parte de datos del paquete.
 ## Formato de un paquete IPv4
-![Formato IPv4](img/paquete-ipv4.webp)
+![Formato IPv4](paquete-ipv4.webp)
 - El formato del Encabezado IPv4 viene determinado por el protocolo IPv4 e incluye la información de enrutamiento IP que los dispositivos utilizan para dirigir el Paquete. El tamaño del encabezado IPv4 oscila entre 20 y 60 bytes. Los primeros 20 bytes son un conjunto fijo de información que contiene datos como la dirección IP de origen y destino, la longitud de la cabecera y la longitud total del paquete. El último conjunto de bytes puede oscilar entre 0 y 40 y está formado por el campo de opciones.
     
 - La longitud de la sección de Datos de un paquete IPv4 puede variar mucho en tamaño. Sin embargo, el tamaño máximo posible de un paquete IPv4 es de 65.535 bytes. Contiene el mensaje que se transfiere por Internet, como la información de un sitio web o el texto de un correo electrónico.
-![](img/header-paquete-ipv4.webp)
+![](header-paquete-ipv4.webp)
 Hay 13 campos dentro del Encabezado de un paquete IPv4:
 
 - **Versión (VER):** Este componente de 4 bits indica a los dispositivos receptores qué protocolo está utilizando el paquete. El paquete utilizado en la ilustración anterior es un paquete IPv4.
@@ -49,5 +49,5 @@ Algunas de las principales diferencias entre IPv4 e IPv6 son la longitud y el fo
 _**Nota:**_ _para representar uno o más conjuntos consecutivos de todos ceros, puede sustituir los ceros por dos puntos dobles "::", por lo que la dirección IPv6 anterior sería "_2002:0db8::ff21:0023:1234"
 
 También existen algunas diferencias en el diseño del Encabezado de un Paquete IPv6. El formato del Encabezado IPv6 es mucho más sencillo que el de IPv4. Por ejemplo, el Encabezado IPv4 incluye los campos IHL, Identificación y Banderas, mientras que el IPv6 no. El encabezado IPv6 sólo introduce el campo de etiqueta de flujo, donde la etiqueta de flujo identifica un paquete como que requiere un manejo especial por parte de otros routers IPv6.
-![Headers IPv4 e IPv6](img/header-ipv4-ipv6.webp)
+![Headers IPv4 e IPv6](header-ipv4-ipv6.webp)
 Existen algunas diferencias de Seguridad importantes entre IPv4 e IPv6. IPv6 ofrece un enrutamiento más eficaz y elimina las colisiones de direcciones privadas que pueden producirse en IPv4 cuando dos dispositivos de la misma red intentan utilizar la misma dirección.

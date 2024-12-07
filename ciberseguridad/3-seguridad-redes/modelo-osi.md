@@ -7,7 +7,7 @@ El **Modelo TCP/IP** es un framework utilizado para visualizar cómo se organiza
 El Modelo TCP/IP tiene cuatro capas: la capa de accesibilidad a la red, la capa de Internet, la capa de transporte y la capa de aplicación. Al analizar los incidentes de red, los profesionales de la seguridad pueden determinar en qué capa o capas se produjo un ataque en función de los procesos que intervinieron en el incidente.
 
 El **modelo OSI** es un concepto estandarizado que describe las siete capas que utilizan los ordenadores para comunicarse y enviar datos a través de la red. Los profesionales de las redes y la seguridad suelen utilizar este Modelo para comunicarse entre sí sobre las posibles fuentes de problemas o amenazas a la seguridad cuando se producen.
-![El modelo OSI](img/modelo-osi.webp)
+![El modelo OSI](modelo-osi.webp)
 ## Capa 7: Capa de aplicación
 
 La capa de aplicación incluye procesos que implican directamente al usuario cotidiano. Esta capa incluye todos los protocolos de redes que las aplicaciones de software utilizan para conectar a un usuario a Internet. Esta característica es el rasgo identificativo de la capa de aplicación: la conexión del usuario a Internet a través de aplicaciones y solicitudes.

@@ -19,7 +19,7 @@ tcpdump proporciona un breve análisis de paquetes y convierte la información c
 ## Interpretar la salida
 
 tcpdump imprime la salida del comando como los paquetes olfateados en la línea de comandos, y opcionalmente en un archivo de registro, después de ejecutar un comando. La salida de una captura de paquetes contiene muchas piezas de información importante sobre el tráfico de la red.
-![Salida tcpdump](img/salida-tcpdump.webp)
+![Salida tcpdump](salida-tcpdump.webp)
 Alguna de la información que recibe de una captura de paquetes incluye:
 
 - **Marca de tiempo**: La salida comienza con la marca de tiempo, formateada como horas, minutos, segundos y fracciones de segundo.

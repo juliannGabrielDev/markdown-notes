@@ -1,5 +1,5 @@
 # Tipos de entrada
-#teoria #html #sintaxis 
+#front-end #curso-4 #modulo-1 
 
 ---
 Esta hoja de trucos debería servirle de referencia para decidir qué tipo se adapta mejor a su caso de uso. La mayoría de las entradas van de la mano con la etiqueta label para las mejores prácticas de accesibilidad.
@@ -86,6 +86,9 @@ Define una imagen como botón gráfico de envío. Debe utilizar el atributo "src
 ```
 ## Número
 Define un control para introducir un número. Puede utilizar atributos para especificar restricciones, como los valores mínimo y máximo permitidos, intervalos de números o un valor por defecto.
+```html
+<input type="number" id="quantity" name="quantity" min="1" max="5">
+```
 ## Rango
 Muestra un widget de rango para especificar un número entre dos valores. El valor exacto, sin embargo, no se considera importante. Normalmente se representa mediante un control deslizante o un dial. Para definir el rango de valores aceptables, utilice las propiedades "mín" y "máx".
 ```html

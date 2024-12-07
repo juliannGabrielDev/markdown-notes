@@ -5,7 +5,7 @@
 En los primeros tiempos de Internet, todas las comunicaciones se realizaban a través de cables físicos. No fue hasta mediados de la década de 1980 cuando las autoridades de Estados Unidos designaron un espectro de frecuencias de ondas de radio que podían utilizarse sin licencia, por lo que Internet tuvo más oportunidades de expandirse.
 
 A finales de los 90 y principios de los 2000, se desarrollaron tecnologías para enviar y recibir datos por radio. Hoy en día, los usuarios acceden a Internet sin cables a través de ordenadores portátiles, teléfonos inteligentes, tabletas y escritorios. Los dispositivos inteligentes, como termostatos, cerraduras de puertas y cámaras de Seguridad, también utilizan Internet inalámbrico para comunicarse entre sí y con los servicios de Internet.
-![Protocolos de Seguridad Inalámbrica](img/wpa.webp)
+![Protocolos de Seguridad Inalámbrica](wpa.webp)
 ## Introducción a los protocolos de Comunicación inalámbrica
 
 En la actualidad, muchas personas se refieren a Internet inalámbrico como Wi-Fi. ==**Wi-Fi** hace referencia a un conjunto de Estándares que definen la comunicación para las LAN inalámbricas==. Wi-Fi es un término de marketing encargado por la Alianza para la Compatibilidad de Ethernet Inalámbrica (WECA). Desde entonces, la WECA ha cambiado el nombre de su organización por el de Wi-Fi Alliance.
