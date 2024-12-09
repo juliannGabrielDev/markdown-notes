@@ -1,0 +1,17 @@
+.flex {display: flex;}
+.box{
+  background-color: aquamarine;
+  border-radius: 5px;
+  margin: 2px;
+  padding: 10px;
+}
+.jc {justify-content: center;}
+.wrap {flex-wrap: wrap;}
+.w-200 {width: 200px;}
+.flex-col {flex-direction: column;}
+.align-items {align-items: flex-end;}
+.box3{background-color: blanchedalmond;}
+.align-self {align-self: center;}
+.gap {gap: 10px;}
+.w-400 {width: 400px;}
+.flex-g-s-b {flex: 1 1 auto;}

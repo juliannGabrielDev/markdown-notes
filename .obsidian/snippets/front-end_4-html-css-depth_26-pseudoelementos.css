@@ -1,0 +1,40 @@
+.fe-426-li::first-letter {
+  color: coral;
+  font-size: 1.3em;
+  font-weight: bold;
+  line-height: 1;
+}
+.border {border: 2px solid black;padding:8px;}
+.fe-426-p-fl::first-line{
+  color: lightseagreen;
+  text-decoration: underline;
+  line-height: 1;
+}
+.fe-426-p-s::selection {
+  color: brown;
+  background-color: antiquewhite;
+  line-height: 1;
+}
+.fe-426-li-mk::marker {
+  color: cornflowerblue;
+  content: '<> ';
+  font-size: 1.1em;
+}
+#fe-426-tips::before{
+  background: darkkhaki;
+  color:darkslategray;
+  content: "Tip:";
+  padding-left: 3px;
+  padding-right: 5px;
+  border-radius: 10%;
+}
+#fe-426-tips::after{
+  background:darkkhaki;
+  color:darkslategray;
+  content: "!!";
+  padding-right: 5px;
+  border-radius: 20%;
+}
+@media (prefers-color-scheme: dark) {
+  .border {border:2px solid #fff;}
+}
