@@ -51,7 +51,6 @@
 	"trim_trailing_white_space_on_save": "none",
 	"ignored_packages":
 	[
-		"Package Control",
 		"Vintage",
 	],
 	"index_files": true,

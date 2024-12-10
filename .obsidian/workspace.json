@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web/4-html-css-depth/4211-preprocesadores.md",
-                "mode": "source",
+                "file": "web/4-html-css-depth/426-pseudoelementos.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4211-preprocesadores"
+              "title": "426-pseudoelementos"
             }
           }
         ]
@@ -43,7 +43,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de archivos"
+              "title": "Files"
             }
           },
           {
@@ -154,18 +154,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
   "active": "d5f15288082df1e2",
   "lastOpenFiles": [
-    "web/4-html-css-depth/4210-ht-animacion-efectos.md",
+    "apps/sublime-text.md",
     "web/4-html-css-depth/4211-preprocesadores.md",
+    "web/comandos-git.md",
+    "web/4-html-css-depth/4210-ht-animacion-efectos.md",
     "web/4-html-css-depth/429-keyframes.md",
     "web/4-html-css-depth/410-ht-animacion-efectos.md",
     "web/4-html-css-depth/428-ht-efectos-textos.md",
@@ -188,10 +190,8 @@
     "web/4-html-css-depth/412-ht-metadatos.md",
     "web/4-html-css-depth/411-ht-html-semantico.md",
     "web/4-html-css-depth/412-metadatos.md",
-    "web/4-html-css-depth/411-html-semantico.md",
     "web/4-html-css-depth/img/flexbox.webp",
     "web/4-html-css-depth/421-flexbox",
-    "web/4-html-css-depth/ejercicios/42-grid-design.md",
     "web/3-version-control/modulo-3/img/github-ssh-conexion.webp",
     "web/3-version-control/modulo-3/img/github-http-conexion.webp",
     "web/3-version-control/modulo-3/img/blame.webp",
