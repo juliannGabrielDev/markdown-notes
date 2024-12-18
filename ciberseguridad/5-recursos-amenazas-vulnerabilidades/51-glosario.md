@@ -1,7 +1,7 @@
-#ciberseguridad #curso-5 
+# Términos del glosario del Módulo 1
+#ciberseguridad #curso-5 #modulo-1 
 
 ---
-
 **Activo:** Artículo que se percibe como poseedor de valor para una organización
 
 **Clasificación de activos:** La práctica de etiquetar los recursos en función de su sensibilidad e importancia para una organización

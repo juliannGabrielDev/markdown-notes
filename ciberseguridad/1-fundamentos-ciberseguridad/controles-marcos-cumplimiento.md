@@ -4,7 +4,7 @@
 Cómo se relacionan los controles, los marcos y el cumplimiento de la normativa.
 
 La **tríada de confidencialidad, integridad y disponibilidad (CID**) es un Modelo que ayuda a informar sobre cómo las organizaciones tienen en cuenta el riesgo a la hora de establecer sistemas y políticas de Seguridad.
-![La tríada](img/cid.webp)CID son los ==tres principios fundamentales utilizados por los profesionales de la ciberseguridad== para establecer controles adecuados que mitiguen las amenazas, los riesgos y las vulnerabilidades.
+![La tríada](cid.webp)CID son los ==tres principios fundamentales utilizados por los profesionales de la ciberseguridad== para establecer controles adecuados que mitiguen las amenazas, los riesgos y las vulnerabilidades.
 
 Como recordará, los **Controles de seguridad** son salvaguardas diseñadas para reducir riesgos de Seguridad específicos. Por lo tanto, se utilizan junto con los frameworks para garantizar que los objetivos y procesos de Seguridad se implementan correctamente y que las organizaciones cumplen con los requisitos normativos.
 

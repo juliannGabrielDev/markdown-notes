@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b15fe2a52b9e867f",
+        "id": "e34751f65a7b2747",
         "type": "tabs",
         "children": [
           {
-            "id": "d5f15288082df1e2",
+            "id": "17b71b7e6e8eac16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web/4-html-css-depth/426-pseudoelementos.md",
-                "mode": "preview",
+                "file": "ciberseguridad/7 Automatizar tareas de ciberseguridad con Python/732 Más información sobre expresiones regulares.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "426-pseudoelementos"
+              "title": "732 Más información sobre expresiones regulares"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#curso-3",
+                "query": "tag:#ciberseguridad",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -60,7 +60,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Buscar"
+              "title": "Search"
             }
           },
           {
@@ -70,14 +70,14 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Marcadores"
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 291.5
   },
   "right": {
     "id": "979a86d9c9a04b0c",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "apps/fzf.md",
+                "file": "ciberseguridad/6-deteccion-respuesta/644-panorama-suricata.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de fzf"
+              "title": "Backlinks for 644-panorama-suricata"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "apps/fzf.md",
+                "file": "ciberseguridad/6-deteccion-respuesta/644-panorama-suricata.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de fzf"
+              "title": "Outgoing links from 644-panorama-suricata"
             }
           },
           {
@@ -139,13 +139,14 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "apps/fzf.md"
+                "file": "ciberseguridad/7 Automatizar tareas de ciberseguridad con Python/732 Más información sobre expresiones regulares.md"
               },
               "icon": "lucide-list",
-              "title": "Esquema de fzf"
+              "title": "Outline of 732 Más información sobre expresiones regulares"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -162,53 +163,55 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d5f15288082df1e2",
+  "active": "17b71b7e6e8eac16",
   "lastOpenFiles": [
-    "apps/sublime-text.md",
-    "web/4-html-css-depth/4211-preprocesadores.md",
-    "web/comandos-git.md",
-    "web/4-html-css-depth/4210-ht-animacion-efectos.md",
-    "web/4-html-css-depth/429-keyframes.md",
-    "web/4-html-css-depth/410-ht-animacion-efectos.md",
-    "web/4-html-css-depth/428-ht-efectos-textos.md",
-    "web/4-html-css-depth/427-ht-css-pseudo.md",
-    "web/4-html-css-depth/426-pseudoelementos.md",
-    "web/4-html-css-depth/425-selectores.md",
-    "web/4-html-css-depth/424-grid-template-areas.md",
-    "web/4-html-css-depth/423-grid-flexbox.md",
-    "web/4-html-css-depth/423-ht-grid-flexbox.md",
-    "web/4-html-css-depth/422-unidades-medida.md",
-    "web/4-html-css-depth/421-flexbox.md",
-    "web/4-html-css-depth/419-ht-iframe.md",
-    "web/4-html-css-depth/418-elementos-formularios.md",
-    "web/4-html-css-depth/419-iframe.md",
-    "web/4-html-css-depth/416-elementos-interactivos-formularios.md",
-    "web/4-html-css-depth/417-enviar.md",
-    "web/4-html-css-depth/415-tipos-entrada.md",
-    "web/4-html-css-depth/414-tarjeta-medios-sociales.md",
-    "web/4-html-css-depth/413-disenio.md",
-    "web/4-html-css-depth/412-ht-metadatos.md",
-    "web/4-html-css-depth/411-ht-html-semantico.md",
-    "web/4-html-css-depth/412-metadatos.md",
-    "web/4-html-css-depth/img/flexbox.webp",
-    "web/4-html-css-depth/421-flexbox",
-    "web/3-version-control/modulo-3/img/github-ssh-conexion.webp",
-    "web/3-version-control/modulo-3/img/github-http-conexion.webp",
-    "web/3-version-control/modulo-3/img/blame.webp",
-    "web/3-version-control/modulo-3/img",
-    "web/3-version-control/modulo-3",
-    "web/3-version-control/modulo-1",
-    "web/3-version-control",
-    "web/4-html-css-depth/img/tarjeta-medios.webp",
-    "web/4-html-css-depth/img/panel-control.webp",
-    "web/4-html-css-depth/img/disenio.webp",
-    "web/4-html-css-depth/img/carrusel.webp",
-    "web/4-html-css-depth/img/blog.webp",
-    "web/4-html-css-depth/img/blog-2.webp",
-    "web/4-html-css-depth/ejercicios",
-    "web/4-html-css-depth/img",
-    "web/4-html-css-depth",
-    "ciberseguridad/5-riesgos-amenazas-vulnerabilidades/img",
-    "ciberseguridad/5-riesgos-amenazas-vulnerabilidades"
+    "ciberseguridad/7 Automatizar tareas de ciberseguridad con Python/731 Listas y el análista de Seguridad.md",
+    "ciberseguridad/7 Automatizar tareas de ciberseguridad con Python/732 Más información sobre expresiones regulares.md",
+    "ciberseguridad/7 Automatizar tareas de ciberseguridad con Python/725 Comentarios de varias líneas.md",
+    "ciberseguridad/7 Automatizar tareas de ciberseguridad con Python/724 Importar módulos y bibliotecas en Python.md",
+    "ciberseguridad/7 Automatizar tareas de ciberseguridad con Python/723 Trabajar con funciones integradas.md",
+    "ciberseguridad/7 Automatizar tareas de ciberseguridad con Python/722 Funciones y variables.md",
+    "ciberseguridad/7 Automatizar tareas de ciberseguridad con Python/721 Funciones de Python en ciberseguridad.md",
+    "ciberseguridad/7 Automatizar tareas de ciberseguridad con Python/714-bucles-py.md",
+    "ciberseguridad/7 Automatizar tareas de ciberseguridad con Python/713-condicionales-py.md",
+    "ciberseguridad/7 Automatizar tareas de ciberseguridad con Python/712-tipos-datos-py.md",
+    "ciberseguridad/7 Automatizar tareas de ciberseguridad con Python/72-glosario.md",
+    "ciberseguridad/7 Automatizar tareas de ciberseguridad con Python/72 Python concepts from module 2.pdf",
+    "ciberseguridad/7-automatizar-tareas-ciberseguridad-python/72 Python concepts from module 2.pdf.crdownload",
+    "ciberseguridad/7 Automatizar tareas de ciberseguridad con Python/711-conozca-python.md",
+    "ciberseguridad/7 Automatizar tareas de ciberseguridad con Python/71 Python concepts from module 1.pdf",
+    "ciberseguridad/7 Automatizar tareas de ciberseguridad con Python/71-glosario.md",
+    "ciberseguridad/7-automatizar-tareas-ciberseguridad-python/713-condicionales-py",
+    "ciberseguridad/7-automatizar-tareas-ciberseguridad-python/712-entornos-de-python.md",
+    "ciberseguridad/6-deteccion-respuesta/623-tcpdump.md",
+    "ciberseguridad/6-deteccion-respuesta/646-metodos-busqueda-siem.md",
+    "ciberseguridad/7 Automatizar tareas de ciberseguridad con Python",
+    "ciberseguridad/6-deteccion-respuesta/641-gestion-registros.md",
+    "ciberseguridad/6-deteccion-respuesta/645-fuentes-registros-ingestion-registros.md",
+    "ciberseguridad/6-deteccion-respuesta/622-investigar-paquete.md",
+    "ciberseguridad/6-deteccion-respuesta/img/seguimiento-flujo.webp",
+    "ciberseguridad/6-deteccion-respuesta/img/barra-filtrado - copia.webp",
+    "ciberseguridad/6-deteccion-respuesta/img/barra-filtrado.webp",
+    "ciberseguridad/6-deteccion-respuesta/img/wireshark.webp",
+    "ciberseguridad/6-deteccion-respuesta/img/operador-contencion.webp",
+    "ciberseguridad/6-deteccion-respuesta/642-formatos-registros.md",
+    "ciberseguridad/6-deteccion-respuesta/637-revision-posterior-al-incidente.md",
+    "ciberseguridad/6-deteccion-respuesta/636-continuidad-negocio-b2b.md",
+    "ciberseguridad/6-deteccion-respuesta/635-proceso-triaje.md",
+    "ciberseguridad/6-deteccion-respuesta/634-documentacion-eficaz.md",
+    "ciberseguridad/6-deteccion-respuesta/633-analice-ioc.md",
+    "ciberseguridad/6-deteccion-respuesta/632-ioc-indicadores-compromiso.md",
+    "ciberseguridad/6-deteccion-respuesta/img/network-protocol-analyzer.webp",
+    "ciberseguridad/6-deteccion-respuesta/img/normalizacion.webp",
+    "ciberseguridad/6-deteccion-respuesta/img/siem.webp",
+    "ciberseguridad/6-deteccion-respuesta/img/ingesta.webp",
+    "ciberseguridad/3-seguridad-redes/img/dispositivos.webp",
+    "diagrama-er-chen.canvas",
+    "img",
+    "ciberseguridad/6-deteccion-respuesta/img",
+    "ciberseguridad/6-deteccion-respuesta/Nueva carpeta",
+    "ciberseguridad/6-deteccion-respuesta",
+    "web/3-version-control/git.pdf",
+    "Untitled 1.canvas"
   ]
 }
