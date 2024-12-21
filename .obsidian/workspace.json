@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ciberseguridad/7 Automatizar tareas de ciberseguridad con Python/732 Más información sobre expresiones regulares.md",
+                "file": "Desarrollo Web/5 React Basics/Configuración de un proyecto React en VS Code.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "732 Más información sobre expresiones regulares"
+              "title": "Configuración de un proyecto React en VS Code"
             }
           }
         ]
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 200
   },
   "right": {
     "id": "979a86d9c9a04b0c",
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ciberseguridad/7 Automatizar tareas de ciberseguridad con Python/732 Más información sobre expresiones regulares.md"
+                "file": "Desarrollo Web/5 React Basics/52 Datos y Estados/Recursos adicionales para Datos y eventos.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 732 Más información sobre expresiones regulares"
+              "title": "Outline of Recursos adicionales para Datos y eventos"
             }
           }
         ],
@@ -165,8 +165,17 @@
   },
   "active": "17b71b7e6e8eac16",
   "lastOpenFiles": [
-    "ciberseguridad/7 Automatizar tareas de ciberseguridad con Python/731 Listas y el análista de Seguridad.md",
+    "Desarrollo Web/5 React Basics/Iniciar proyecto de React con tailwindcss.md",
+    "Desarrollo Web/5 React Basics/Configuración de un proyecto React en VS Code.md",
+    "Desarrollo Web/5 React Basics/53 Navegación, actualización y activos en React/Actuvidades/531 Visualización de imágenes.md",
+    "Desarrollo Web/5 React Basics/53 Navegación, actualización y activos en React/535 Agrupación de activos.md",
+    "Desarrollo Web/5 React Basics/53 Navegación, actualización y activos en React/Actuvidades",
+    "Desarrollo Web/5 React Basics/53 Navegación, actualización y activos en React/534 Componentes condicionales.md",
+    "Desarrollo Web/5 React Basics/53 Navegación, actualización y activos en React/533 Aplicación del renderizado condicional.md",
+    "Desarrollo Web/5 React Basics/53 Navegación, actualización y activos en React/532 React Router.md",
+    "Desarrollo Web/5 React Basics/52 Datos y Estados/Recursos adicionales para Datos y eventos.md",
     "ciberseguridad/7 Automatizar tareas de ciberseguridad con Python/732 Más información sobre expresiones regulares.md",
+    "ciberseguridad/7 Automatizar tareas de ciberseguridad con Python/731 Listas y el análista de Seguridad.md",
     "ciberseguridad/7 Automatizar tareas de ciberseguridad con Python/725 Comentarios de varias líneas.md",
     "ciberseguridad/7 Automatizar tareas de ciberseguridad con Python/724 Importar módulos y bibliotecas en Python.md",
     "ciberseguridad/7 Automatizar tareas de ciberseguridad con Python/723 Trabajar con funciones integradas.md",
@@ -188,19 +197,11 @@
     "ciberseguridad/7 Automatizar tareas de ciberseguridad con Python",
     "ciberseguridad/6-deteccion-respuesta/641-gestion-registros.md",
     "ciberseguridad/6-deteccion-respuesta/645-fuentes-registros-ingestion-registros.md",
-    "ciberseguridad/6-deteccion-respuesta/622-investigar-paquete.md",
     "ciberseguridad/6-deteccion-respuesta/img/seguimiento-flujo.webp",
     "ciberseguridad/6-deteccion-respuesta/img/barra-filtrado - copia.webp",
     "ciberseguridad/6-deteccion-respuesta/img/barra-filtrado.webp",
     "ciberseguridad/6-deteccion-respuesta/img/wireshark.webp",
     "ciberseguridad/6-deteccion-respuesta/img/operador-contencion.webp",
-    "ciberseguridad/6-deteccion-respuesta/642-formatos-registros.md",
-    "ciberseguridad/6-deteccion-respuesta/637-revision-posterior-al-incidente.md",
-    "ciberseguridad/6-deteccion-respuesta/636-continuidad-negocio-b2b.md",
-    "ciberseguridad/6-deteccion-respuesta/635-proceso-triaje.md",
-    "ciberseguridad/6-deteccion-respuesta/634-documentacion-eficaz.md",
-    "ciberseguridad/6-deteccion-respuesta/633-analice-ioc.md",
-    "ciberseguridad/6-deteccion-respuesta/632-ioc-indicadores-compromiso.md",
     "ciberseguridad/6-deteccion-respuesta/img/network-protocol-analyzer.webp",
     "ciberseguridad/6-deteccion-respuesta/img/normalizacion.webp",
     "ciberseguridad/6-deteccion-respuesta/img/siem.webp",
@@ -211,7 +212,6 @@
     "ciberseguridad/6-deteccion-respuesta/img",
     "ciberseguridad/6-deteccion-respuesta/Nueva carpeta",
     "ciberseguridad/6-deteccion-respuesta",
-    "web/3-version-control/git.pdf",
     "Untitled 1.canvas"
   ]
 }
