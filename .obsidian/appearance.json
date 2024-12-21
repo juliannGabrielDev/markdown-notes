@@ -1,12 +1,11 @@
 {
   "baseFontSize": 17,
   "accentColor": "#8000ff",
-  "cssTheme": "GitHub Theme",
+  "cssTheme": "Adwaita",
   "interfaceFontFamily": "JetBrains Mono NL",
   "textFontFamily": "Inter",
   "enabledCssSnippets": [
     "front-end_4-html-css-depth_21-flexbox",
-    "front-end_4-html-css-depth_24-grid-template-areas",
     "front-end_4-html-css-depth_26-pseudoelementos"
   ]
 }

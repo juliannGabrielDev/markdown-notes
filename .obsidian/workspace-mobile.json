@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "3631cfbe0dc11a26",
+    "type": "split",
+    "children": [
+      {
+        "id": "0065c566f5d0380e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "069c15c669bb8d03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Desarrollo Web/5 React Basics/52 Datos y Estados/Recursos adicionales para.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Recursos adicionales para"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "91cf6a0c53916c88",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0ed4d86a0ffff242",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "372d4841778cedfb",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:modulo-1",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "67e295cd09383559",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "bab5a206bb8df5cd",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "21222fc11b77f4d2",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0f579eefa76fe025",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Desarrollo Web/5 React Basics/51 Componentes React/5111 Recursos adicionales para Uso y estilo de los componetes.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "415f2609d56f5f04",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Desarrollo Web/5 React Basics/51 Componentes React/5111 Recursos adicionales para Uso y estilo de los componetes.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "2b1c7a500576f6ce",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "524 Utilizar Hooks.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 2
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "069c15c669bb8d03",
+  "lastOpenFiles": [
+    "Desarrollo Web/5 React Basics/52 Datos y Estados/Actividades/522 Gestión del estado en React.md",
+    "Desarrollo Web/5 React Basics/52 Datos y Estados/Recursos adicionales para.md",
+    "Desarrollo Web/5 React Basics/52 Datos y Estados/525 Propagación de props.md",
+    "Desarrollo Web/5 React Basics/52 Datos y Estados/523 Flujo de datos en React.md",
+    "Desarrollo Web/5 React Basics/52 Datos y Estados/524 Utilizar Hooks.md",
+    "Desarrollo Web/5 React Basics/Configuración de un proyecto React en VS Code.md",
+    "Desarrollo Web/5 React Basics/52 Datos y Estados/522 Recursos adicionales para.md",
+    "Desarrollo Web/5 React Basics/52 Datos y Estados/521 Manejo de eventos y expresiones incrustradas.md",
+    "Desarrollo Web/5 React Basics/52 Datos y Estados/Actividades/521 Eventos dinámicos.md",
+    "Desarrollo Web/5 React Basics/51 Componentes React/519 Operadores y funciones ternarias en JSX.md",
+    "Desarrollo Web/5 React Basics/52 Datos y Estados/Actividades",
+    "Desarrollo Web/5 React Basics/52 Datos y Estados",
+    "Desarrollo Web/5 React Basics/51 Componentes React/Actividades/511 Su primer componete.md",
+    "Desarrollo Web/5 React Basics/51 Componentes React/Actividades/514 Múltiples componentes.md",
+    "Desarrollo Web/5 React Basics/51 Componentes React/5111 Recursos adicionales para Uso y estilo de los componetes.md",
+    "Desarrollo Web/5 React Basics/51 Componentes React/5110 Expresiones como props.md",
+    "Desarrollo Web/5 React Basics/51 Componentes React/518 Sintaxis JSX y la función de flecha.md",
+    "Desarrollo Web/5 React Basics/51 Componentes React/517 Estilizar elementos JSX.md",
+    "Desarrollo Web/5 React Basics/51 Componentes React/516 Props and children.md",
+    "Desarrollo Web/5 React Basics/51 Componentes React/Actividades/513 Pasando props.md",
+    "Desarrollo Web/5 React Basics/51 Componentes React/515 Diseccionando props.md",
+    "Desarrollo Web/5 React Basics/51 Componentes React/514 Recursos adicionales para Los componetes de Ract y dónde viven.md",
+    "Desarrollo Web/5 React Basics/51 Componentes React/Actividades/512 Creación e Importación de componetes.md",
+    "Desarrollo Web/5 React Basics/51 Componentes React/513 Personalizar el proyecto.md",
+    "Desarrollo Web/5 React Basics/51 Componentes React/512 Transpilar JSX.md",
+    "Desarrollo Web/5 React Basics/51 Componentes React/511 Módulos Javascript - Importaciones - Exportaciones.md",
+    "Desarrollo Web/5 React Basics/51 Componentes React/Actividades",
+    "Desarrollo Web/5 React Basics/51 Componentes React",
+    "Desarrollo Web/5 React Basics",
+    "Desarrollo Web/3 Version Control/comandos-git.md",
+    "ciberseguridad/Glosario del Certificado de Ciberseguridad de Google.pdf",
+    "ciberseguridad/7 Automatizar tareas de ciberseguridad con Python/Glosarios/7 Python concepts from Course 7.pdf",
+    "ciberseguridad/8 Póngalo en práctica - Prepárese para empleos en ciberseguridad/Glosarios/85 Términos del glosario del Módulo 5.md",
+    "ciberseguridad/8 Póngalo en práctica - Prepárese para empleos en ciberseguridad/85 Encuentre y solicite empleos en ciberseguridad",
+    "ciberseguridad/8 Póngalo en práctica - Prepárese para empleos en ciberseguridad/83 Comunicar con eficacia para influir en las partes interesadas",
+    "ciberseguridad/8 Póngalo en práctica - Prepárese para empleos en ciberseguridad/82 Elevación de incidentes",
+    "ciberseguridad/7 Automatizar tareas de ciberseguridad con Python/742-1 Función open.canvas",
+    "Desarrollo Web/4 HTML and CSS in Depth/img/flexbox.webp"
+  ]
+}

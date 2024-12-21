@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"c25b24d47f92cf06","type":"text","text":"`/`","x":-100,"y":-140,"width":250,"height":60,"color":"6"},
+		{"id":"746d39d1a9b26c2d","type":"text","text":"`home`","x":-100,"y":-40,"width":250,"height":60,"color":"6"},
+		{"id":"da1360576d37d8d7","type":"text","text":"`analyst`","x":-100,"y":60,"width":250,"height":60,"color":"6"},
+		{"id":"30599016849b31b5","type":"text","text":"`logs`","x":-100,"y":160,"width":250,"height":60,"color":"6"},
+		{"id":"1e1952e75b6408b1","type":"text","text":"`code`","x":200,"y":160,"width":250,"height":60,"color":"6"},
+		{"id":"beb19a4dd7076d9e","type":"text","text":"`access_log.txt`","x":-100,"y":260,"width":250,"height":60,"color":"2"},
+		{"id":"b827f9ff6420c4a0","type":"text","text":"`log_parser.ipynb`","x":40,"y":360,"width":250,"height":60,"color":"2"},
+		{"id":"c42e06811f61df32","type":"text","text":"`update_log.txt`","x":325,"y":360,"width":250,"height":60,"color":"2"}
+	],
+	"edges":[
+		{"id":"e9ce73cb03f2b0eb","fromNode":"c25b24d47f92cf06","fromSide":"bottom","toNode":"746d39d1a9b26c2d","toSide":"top"},
+		{"id":"db742a560636a6e2","fromNode":"746d39d1a9b26c2d","fromSide":"bottom","toNode":"da1360576d37d8d7","toSide":"top"},
+		{"id":"a25e72714ba785b1","fromNode":"da1360576d37d8d7","fromSide":"bottom","toNode":"30599016849b31b5","toSide":"top"},
+		{"id":"aee0835fe143ec94","fromNode":"da1360576d37d8d7","fromSide":"right","toNode":"1e1952e75b6408b1","toSide":"top"},
+		{"id":"c42838dc2b8ae5f8","fromNode":"30599016849b31b5","fromSide":"bottom","toNode":"beb19a4dd7076d9e","toSide":"top"},
+		{"id":"3e94be7d9520aac6","fromNode":"1e1952e75b6408b1","fromSide":"bottom","toNode":"b827f9ff6420c4a0","toSide":"top"},
+		{"id":"c9deb0393d7c80ff","fromNode":"1e1952e75b6408b1","fromSide":"bottom","toNode":"c42e06811f61df32","toSide":"top"}
+	]
+}
