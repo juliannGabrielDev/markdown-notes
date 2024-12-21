@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo Web/5 React Basics/52 Datos y Estados/Recursos adicionales para.md",
+                "file": "Desarrollo Web/5 React Basics/53 Navegación, actualización y activos en React/532 React Router.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Recursos adicionales para"
+              "title": "532 React Router"
             }
           }
         ]
@@ -128,7 +128,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "524 Utilizar Hooks.md"
+            "file": "Desarrollo Web/5 React Basics/53 Navegación, actualización y activos en React/532 React Router.md"
           },
           "icon": "lucide-list",
           "title": "Outline"
@@ -149,8 +149,15 @@
   },
   "active": "069c15c669bb8d03",
   "lastOpenFiles": [
-    "Desarrollo Web/5 React Basics/52 Datos y Estados/Actividades/522 Gestión del estado en React.md",
+    "Desarrollo Web/5 React Basics/53 Navegación, actualización y activos en React/531 Navegación.md",
+    "Desarrollo Web/5 React Basics/53 Navegación, actualización y activos en React/532 React Router.md",
+    "Personal/Para después.md",
+    "Desarrollo Web/5 React Basics/53 Navegación, actualización y activos en React/Actividades",
+    "Desarrollo Web/5 React Basics/53 Navegación, actualización y activos en React",
+    "Personal/Music.md",
     "Desarrollo Web/5 React Basics/52 Datos y Estados/Recursos adicionales para.md",
+    "Personal",
+    "Desarrollo Web/5 React Basics/52 Datos y Estados/Actividades/522 Gestión del estado en React.md",
     "Desarrollo Web/5 React Basics/52 Datos y Estados/525 Propagación de props.md",
     "Desarrollo Web/5 React Basics/52 Datos y Estados/523 Flujo de datos en React.md",
     "Desarrollo Web/5 React Basics/52 Datos y Estados/524 Utilizar Hooks.md",
@@ -173,18 +180,11 @@
     "Desarrollo Web/5 React Basics/51 Componentes React/514 Recursos adicionales para Los componetes de Ract y dónde viven.md",
     "Desarrollo Web/5 React Basics/51 Componentes React/Actividades/512 Creación e Importación de componetes.md",
     "Desarrollo Web/5 React Basics/51 Componentes React/513 Personalizar el proyecto.md",
-    "Desarrollo Web/5 React Basics/51 Componentes React/512 Transpilar JSX.md",
-    "Desarrollo Web/5 React Basics/51 Componentes React/511 Módulos Javascript - Importaciones - Exportaciones.md",
     "Desarrollo Web/5 React Basics/51 Componentes React/Actividades",
     "Desarrollo Web/5 React Basics/51 Componentes React",
     "Desarrollo Web/5 React Basics",
-    "Desarrollo Web/3 Version Control/comandos-git.md",
     "ciberseguridad/Glosario del Certificado de Ciberseguridad de Google.pdf",
     "ciberseguridad/7 Automatizar tareas de ciberseguridad con Python/Glosarios/7 Python concepts from Course 7.pdf",
-    "ciberseguridad/8 Póngalo en práctica - Prepárese para empleos en ciberseguridad/Glosarios/85 Términos del glosario del Módulo 5.md",
-    "ciberseguridad/8 Póngalo en práctica - Prepárese para empleos en ciberseguridad/85 Encuentre y solicite empleos en ciberseguridad",
-    "ciberseguridad/8 Póngalo en práctica - Prepárese para empleos en ciberseguridad/83 Comunicar con eficacia para influir en las partes interesadas",
-    "ciberseguridad/8 Póngalo en práctica - Prepárese para empleos en ciberseguridad/82 Elevación de incidentes",
     "ciberseguridad/7 Automatizar tareas de ciberseguridad con Python/742-1 Función open.canvas",
     "Desarrollo Web/4 HTML and CSS in Depth/img/flexbox.webp"
   ]

@@ -28,6 +28,7 @@
     "editor:unindent-list",
     "editor:undo",
     "editor:redo",
-    "editor:configure-toolbar"
+    "editor:configure-toolbar",
+    "editor:insert-table"
   ]
 }
